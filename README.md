@@ -52,7 +52,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Cadence Space-based Router (CSR)
 - Clock Tree Debugger (CTD)
 - Clock Tree Synthesis (CTS)
-- Common User Interface (CUI)CVD
+- Common User Interface (CVD)
 - Define Device Correspondence (DDC)
 - Design Framework II (DFII)
 - Design for Manufacturability (DFM)
