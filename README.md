@@ -15,7 +15,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - AMS Virtuoso Use Model (AVUM)
 - AMS Xcelium Use Model (AXUM)
 - Application Programming Interface (API)
-- Arithmetic Logic Unit (ALU
+- Arithmetic Logic Unit (ALU)
 - Blackbox Design Unit (BDU)
 - Back End of Line (BEOL)
 - Bit Error Rate (BER)
