@@ -24,6 +24,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Bipolar Complementary Metal Oxide Silicon (BiCMOS)
 - Berkeley Short-Channel IGFET Model (BSIM)
 - Built-in Self Test (BIST)
+- Computer Aided Design (CAD)
 - Check Against Source (CAS)
 - Conformal Constraints Designer (CCD)
 - Clock Constraint File (CCF)
