@@ -14,6 +14,7 @@ open(ACRONYMS, '>', $acronyms) or die "Cannot open $acronyms $!";
 open(GLOSSARY, '>', $glossary) or die "Cannot open $glossary $!";
 
 print ACRONYMS "\\usepackage{acronym}\n\n";
+print GLOSSARY "\\usepackage[]{glossaries}\n\\makeglossaries\n\\include{glossaryentries}\n\n";
 
 while ($line=<README>)
 {
