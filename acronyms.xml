@@ -1,0 +1,1006 @@
+<acronyms>
+	<ac>
+		<acronym>AAP</acronym>
+		<full>Analog Auto Placer</full>
+	</ac>
+	<ac>
+		<acronym>ABE</acronym>
+		<full>Advanced Boolean Engine</full>
+	</ac>
+	<ac>
+		<acronym>ADR</acronym>
+		<full>Activity-Driven Restructuring</full>
+	</ac>
+	<ac>
+		<acronym>AOCV</acronym>
+		<full>Advanced On-chip Variation</full>
+	</ac>
+	<ac>
+		<acronym>ADE</acronym>
+		<full>Analog Design Environment</full>
+	</ac>
+	<ac>
+		<acronym>AEL</acronym>
+		<full>Analog Expression Language</full>
+	</ac>
+	<ac>
+		<acronym>AMS</acronym>
+		<full>Analog-Mixed-Signal</full>
+	</ac>
+	<ac>
+		<acronym>AMSD</acronym>
+		<full>AMS Designer</full>
+	</ac>
+	<ac>
+		<acronym>AoT</acronym>
+		<full>Analog on Top</full>
+	</ac>
+	<ac>
+		<acronym>APS</acronym>
+		<full>Accelerated Parallel Simulation</full>
+	</ac>
+	<ac>
+		<acronym>ATPG</acronym>
+		<full>Automatic Test Pattern Generation</full>
+	</ac>
+	<ac>
+		<acronym>AVUM</acronym>
+		<full>AMS Virtuoso Use Model</full>
+	</ac>
+	<ac>
+		<acronym>AXUM</acronym>
+		<full>AMS Xcelium Use Model</full>
+	</ac>
+	<ac>
+		<acronym>API</acronym>
+		<full>Application Programming Interface</full>
+	</ac>
+	<ac>
+		<acronym>ALU</acronym>
+		<full>Arithmetic Logic Unit</full>
+	</ac>
+	<ac>
+		<acronym>ASIC</acronym>
+		<full>Application-Specific Integrated Circuit</full>
+	</ac>
+	<ac>
+		<acronym>BDU</acronym>
+		<full>Blackbox Design Unit</full>
+	</ac>
+	<ac>
+		<acronym>BEOL</acronym>
+		<full>Back End of Line</full>
+	</ac>
+	<ac>
+		<acronym>BER</acronym>
+		<full>Bit Error Rate</full>
+	</ac>
+	<ac>
+		<acronym>BiCMOS</acronym>
+		<full>Bipolar Complementary Metal Oxide Silicon</full>
+	</ac>
+	<ac>
+		<acronym>BSIM</acronym>
+		<full>Berkeley Short-Channel IGFET Model</full>
+	</ac>
+	<ac>
+		<acronym>BIST</acronym>
+		<full>Built-in Self Test</full>
+	</ac>
+	<ac>
+		<acronym>CAD</acronym>
+		<full>Computer Aided Design</full>
+	</ac>
+	<ac>
+		<acronym>CAN</acronym>
+		<full>Cadence Academic Network</full>
+	</ac>
+	<ac>
+		<acronym>CAS</acronym>
+		<full>Check Against Source</full>
+	</ac>
+	<ac>
+		<acronym>CCD</acronym>
+		<full>Conformal Constraints Designer</full>
+	</ac>
+	<ac>
+		<acronym>CCF</acronym>
+		<full>Clock Constraint File</full>
+	</ac>
+	<ac>
+		<acronym>CCL</acronym>
+		<full>Common Command Language</full>
+	</ac>
+	<ac>
+		<acronym>CCS</acronym>
+		<full>Composite Current Source</full>
+	</ac>
+	<ac>
+		<acronym>CDF</acronym>
+		<full>Component Description Format</full>
+	</ac>
+	<ac>
+		<acronym>CDL</acronym>
+		<full>Circuit Description Language</full>
+	</ac>
+	<ac>
+		<acronym>CDM</acronym>
+		<full>Charge Device Model</full>
+	</ac>
+	<ac>
+		<acronym>CDBA</acronym>
+		<full>Cadence Database API</full>
+	</ac>
+	<ac>
+		<acronym>CDS</acronym>
+		<full>Cadence Design Systems</full>
+	</ac>
+	<ac>
+		<acronym>CIF</acronym>
+		<full>Caltech Intermediate Format</full>
+	</ac>
+	<ac>
+		<acronym>CEL</acronym>
+		<full>CDF Expression Language</full>
+	</ac>
+	<ac>
+		<acronym>CGIC</acronym>
+		<full>Clock-gating integrated cell</full>
+	</ac>
+	<ac>
+		<acronym>CIW</acronym>
+		<full>Command Interpreter Window</full>
+	</ac>
+	<ac>
+		<acronym>CMI</acronym>
+		<full>Compile Module Interface</full>
+	</ac>
+	<ac>
+		<acronym>CML</acronym>
+		<full>Channel Length Modulation</full>
+	</ac>
+	<ac>
+		<acronym>CMOS</acronym>
+		<full>Complementary Metal Oxide Silicon</full>
+	</ac>
+	<ac>
+		<acronym>CMP</acronym>
+		<full>Chemical Mechanical Polishing</full>
+	</ac>
+	<ac>
+		<acronym>CPF</acronym>
+		<full>Common Power Format</full>
+	</ac>
+	<ac>
+		<acronym>CDB</acronym>
+		<full>Cadence Database</full>
+	</ac>
+	<ac>
+		<acronym>CPG</acronym>
+		<full>Cadence Placement Guidance</full>
+	</ac>
+	<ac>
+		<acronym>CMC</acronym>
+		<full>Compact Modeling Counsel</full>
+	</ac>
+	<ac>
+		<acronym>CPH</acronym>
+		<full>Configure Physical Hierarchy</full>
+	</ac>
+	<ac>
+		<acronym>CPPR</acronym>
+		<full>Clock Path Pessimism Removal</full>
+	</ac>
+	<ac>
+		<acronym>CRPR</acronym>
+		<full>Clock Reconvergence Pessimism Removal</full>
+	</ac>
+	<ac>
+		<acronym>CSA</acronym>
+		<full>Carry-Save Adder</full>
+	</ac>
+	<ac>
+		<acronym>CSR</acronym>
+		<full>Cadence Space-based Router</full>
+	</ac>
+	<ac>
+		<acronym>CTD</acronym>
+		<full>Clock Tree Debugger</full>
+	</ac>
+	<ac>
+		<acronym>CTS</acronym>
+		<full>Clock Tree Synthesis</full>
+	</ac>
+	<ac>
+		<acronym>CVD</acronym>
+		<full>Common User Interface</full>
+	</ac>
+	<ac>
+		<acronym>DDC</acronym>
+		<full>Define Device Correspondence</full>
+	</ac>
+	<ac>
+		<acronym>DFII</acronym>
+		<full>Design Framework II</full>
+	</ac>
+	<ac>
+		<acronym>DFM</acronym>
+		<full>Design for Manufacturability</full>
+	</ac>
+	<ac>
+		<acronym>DFT</acronym>
+		<full>Design for Test</full>
+	</ac>
+	<ac>
+		<acronym>DIBL</acronym>
+		<full>Drain-induced barrier lowering</full>
+	</ac>
+	<ac>
+		<acronym>DITS</acronym>
+		<full>Drain-induced threshold shift</full>
+	</ac>
+	<ac>
+		<acronym>DMIM</acronym>
+		<full>Double Metal Insulator Metal</full>
+	</ac>
+	<ac>
+		<acronym>DoT</acronym>
+		<full>Digital on Top</full>
+	</ac>
+	<ac>
+		<acronym>DPO</acronym>
+		<full>Dual Port Object</full>
+	</ac>
+	<ac>
+		<acronym>DPL</acronym>
+		<full>Disembodied Property List</full>
+	</ac>
+	<ac>
+		<acronym>DDPI</acronym>
+		<full>Design Data Procedural Interface</full>
+	</ac>
+	<ac>
+		<acronym>DPT</acronym>
+		<full>Double Patterning Technology</full>
+	</ac>
+	<ac>
+		<acronym>DRC</acronym>
+		<full>Design Rule Check</full>
+	</ac>
+	<ac>
+		<acronym>DRD</acronym>
+		<full>Design Rule Driven</full>
+	</ac>
+	<ac>
+		<acronym>DRL</acronym>
+		<full>Device Recognition Layer</full>
+	</ac>
+	<ac>
+		<acronym>DRV</acronym>
+		<full>Design Rule Violation</full>
+	</ac>
+	<ac>
+		<acronym>DSPF</acronym>
+		<full>Detaild Standard Parasitic Format</full>
+	</ac>
+	<ac>
+		<acronym>DUT</acronym>
+		<full>Device under Test</full>
+	</ac>
+	<ac>
+		<acronym>ECC</acronym>
+		<full>Error-Correcting Codes</full>
+	</ac>
+	<ac>
+		<acronym>ECF</acronym>
+		<full>Early Clock Flow</full>
+	</ac>
+	<ac>
+		<acronym>ECO</acronym>
+		<full>Engineering Change Order</full>
+	</ac>
+	<ac>
+		<acronym>ECSM</acronym>
+		<full>Effective Current Source Model</full>
+	</ac>
+	<ac>
+		<acronym>EDA</acronym>
+		<full>Electronic Design Automation</full>
+	</ac>
+	<ac>
+		<acronym>EDIF</acronym>
+		<full>Electronic Design Interchange Format</full>
+	</ac>
+	<ac>
+		<acronym>EIP</acronym>
+		<full>Edit In Place</full>
+	</ac>
+	<ac>
+		<acronym>EMIR</acronym>
+		<full>Electromigration and IR-Drop</full>
+	</ac>
+	<ac>
+		<acronym>ENOB</acronym>
+		<full>Effective Number of Bits</full>
+	</ac>
+	<ac>
+		<acronym>EOT</acronym>
+		<full>Equivalent Oxide Thickness</full>
+	</ac>
+	<ac>
+		<acronym>ERA</acronym>
+		<full>Early Rail Analysis</full>
+	</ac>
+	<ac>
+		<acronym>ERC</acronym>
+		<full>Electrical Rule Check</full>
+	</ac>
+	<ac>
+		<acronym>ESD</acronym>
+		<full>Electrostatic Discharge</full>
+	</ac>
+	<ac>
+		<acronym>ESR</acronym>
+		<full>Effective Series Resistance</full>
+	</ac>
+	<ac>
+		<acronym>ETL</acronym>
+		<full>Edge Triggered Latch</full>
+	</ac>
+	<ac>
+		<acronym>FET</acronym>
+		<full>Field-Effect Transistor</full>
+	</ac>
+	<ac>
+		<acronym>FBB</acronym>
+		<full>Forward Body Bias</full>
+	</ac>
+	<ac>
+		<acronym>FEOL</acronym>
+		<full>Front End of Line</full>
+	</ac>
+	<ac>
+		<acronym>FF</acronym>
+		<full>Flip-Flop</full>
+	</ac>
+	<ac>
+		<acronym>FGR</acronym>
+		<full>Fluid Guard Ring</full>
+	</ac>
+	<ac>
+		<acronym>FN</acronym>
+		<full>Fowler-Nordheim</full>
+	</ac>
+	<ac>
+		<acronym>FSDB</acronym>
+		<full>Fast Signal Database</full>
+	</ac>
+	<ac>
+		<acronym>FSM</acronym>
+		<full>Finite State Machine</full>
+	</ac>
+	<ac>
+		<acronym>GDSII</acronym>
+		<full>Graphical Design Station II</full>
+	</ac>
+	<ac>
+		<acronym>GFS</acronym>
+		<full>Generate From Source</full>
+	</ac>
+	<ac>
+		<acronym>GIDL</acronym>
+		<full>Gate Induced Drain Leakage</full>
+	</ac>
+	<ac>
+		<acronym>GISL</acronym>
+		<full>Gate Induced Source Leakage</full>
+	</ac>
+	<ac>
+		<acronym>GLD</acronym>
+		<full>Graphical LVS Debugger</full>
+	</ac>
+	<ac>
+		<acronym>GLS</acronym>
+		<full>Gate-Level Simulation</full>
+	</ac>
+	<ac>
+		<acronym>GSFS</acronym>
+		<full>Generate Selected From Source</full>
+	</ac>
+	<ac>
+		<acronym>GTD</acronym>
+		<full>Global Timing Debug</full>
+	</ac>
+	<ac>
+		<acronym>HBT</acronym>
+		<full>Hetero-Junction Bipolar Transistor</full>
+	</ac>
+	<ac>
+		<acronym>HBM</acronym>
+		<full>Human-Body Model</full>
+	</ac>
+	<ac>
+		<acronym>HCI</acronym>
+		<full>Hot Carrier Injection</full>
+	</ac>
+	<ac>
+		<acronym>HDL</acronym>
+		<full>Hardware Description Language</full>
+	</ac>
+	<ac>
+		<acronym>HED</acronym>
+		<full>Hierarchy Editor</full>
+	</ac>
+	<ac>
+		<acronym>HMF</acronym>
+		<full>Hierarchical Metal Fill Database Flow</full>
+	</ac>
+	<ac>
+		<acronym>HRCX</acronym>
+		<full>Hierarchical Extraction</full>
+	</ac>
+	<ac>
+		<acronym>IBIS</acronym>
+		<full>I/O Buffer Information Specification</full>
+	</ac>
+	<ac>
+		<acronym>ICE</acronym>
+		<full>Integration Constraint Editor</full>
+	</ac>
+	<ac>
+		<acronym>ICT</acronym>
+		<full>Interconnect Technology</full>
+	</ac>
+	<ac>
+		<acronym>ICRP</acronym>
+		<full>IC Remote Processes</full>
+	</ac>
+	<ac>
+		<acronym>ITRS</acronym>
+		<full>International Technology Roadmap for Semiconductors</full>
+	</ac>
+	<ac>
+		<acronym>IE</acronym>
+		<full>Interface Element</full>
+	</ac>
+	<ac>
+		<acronym>IGFET</acronym>
+		<full>Insulated-Gate Field-Effect Transistor</full>
+	</ac>
+	<ac>
+		<acronym>ILD</acronym>
+		<full>Inter-Layer Dielectric</full>
+	</ac>
+	<ac>
+		<acronym>ILM</acronym>
+		<full>Interface Logic Models</full>
+	</ac>
+	<ac>
+		<acronym>IOPT</acronym>
+		<full>Incremental Optimization</full>
+	</ac>
+	<ac>
+		<acronym>IP</acronym>
+		<full>Intellectual Property</full>
+	</ac>
+	<ac>
+		<acronym>KCL</acronym>
+		<full>Kirchhoff’s Current Law</full>
+	</ac>
+	<ac>
+		<acronym>KVL</acronym>
+		<full>Kirchhoff’s Voltage Law</full>
+	</ac>
+	<ac>
+		<acronym>LDD</acronym>
+		<full>Lightly Doped Drain</full>
+	</ac>
+	<ac>
+		<acronym>LDE</acronym>
+		<full>Layout-Dependent Effects</full>
+	</ac>
+	<ac>
+		<acronym>LDS</acronym>
+		<full>Low-Discrepancy Sequence</full>
+	</ac>
+	<ac>
+		<acronym>LEC</acronym>
+		<full>Logic Equivalence Checking</full>
+	</ac>
+	<ac>
+		<acronym>LEF</acronym>
+		<full>Library Exchange Format</full>
+	</ac>
+	<ac>
+		<acronym>LHS</acronym>
+		<full>Latin Hypercube Sampling</full>
+	</ac>
+	<ac>
+		<acronym>LOCOS</acronym>
+		<full>Local Oxidation of Silicon</full>
+	</ac>
+	<ac>
+		<acronym>LPP</acronym>
+		<full>Layer-Purpose Pair</full>
+	</ac>
+	<ac>
+		<acronym>LRP</acronym>
+		<full>Least Resistive Path</full>
+	</ac>
+	<ac>
+		<acronym>LSCS</acronym>
+		<full>Large-Scale Cloud Simulation</full>
+	</ac>
+	<ac>
+		<acronym>LSF</acronym>
+		<full>Load Sharing Facility</full>
+	</ac>
+	<ac>
+		<acronym>LTE</acronym>
+		<full>Local Truncation Error</full>
+	</ac>
+	<ac>
+		<acronym>LVL</acronym>
+		<full>Layout Versus Layout</full>
+	</ac>
+	<ac>
+		<acronym>LVS</acronym>
+		<full>Layout Versus Schematic</full>
+	</ac>
+	<ac>
+		<acronym>MBCI</acronym>
+		<full>Multibit Cell Inference</full>
+	</ac>
+	<ac>
+		<acronym>MC</acronym>
+		<full>Monte Carlo</full>
+	</ac>
+	<ac>
+		<acronym>MISFET</acronym>
+		<full>Metal-Insulator Semiconductor FET</full>
+	</ac>
+	<ac>
+		<acronym>MOSFET</acronym>
+		<full>Metal-Oxide Semiconductor FET</full>
+	</ac>
+	<ac>
+		<acronym>MDL</acronym>
+		<full>Measurement Description Language</full>
+	</ac>
+	<ac>
+		<acronym>MEOL</acronym>
+		<full>Middle End of Line</full>
+	</ac>
+	<ac>
+		<acronym>MIM</acronym>
+		<full>Metal Insulator Metal</full>
+	</ac>
+	<ac>
+		<acronym>MM</acronym>
+		<full>Machine Model</full>
+	</ac>
+	<ac>
+		<acronym>MMMC</acronym>
+		<full>Multi-Mode Multi-Corner</full>
+	</ac>
+	<ac>
+		<acronym>MODGEN</acronym>
+		<full>Module Generator</full>
+	</ac>
+	<ac>
+		<acronym>MPC</acronym>
+		<full>Multiple Process Corner</full>
+	</ac>
+	<ac>
+		<acronym>MPT</acronym>
+		<full>Multi-Patterning Technology</full>
+	</ac>
+	<ac>
+		<acronym>MPW</acronym>
+		<full>Multi-Project Wafer</full>
+	</ac>
+	<ac>
+		<acronym>MSV</acronym>
+		<full>Multiple Supply Voltage</full>
+	</ac>
+	<ac>
+		<acronym>MTS</acronym>
+		<full>Multi-Technology Simulation</full>
+	</ac>
+	<ac>
+		<acronym>NLDM</acronym>
+		<full>Non-linear Delay Model</full>
+	</ac>
+	<ac>
+		<acronym>NLP</acronym>
+		<full>Netlist property</full>
+	</ac>
+	<ac>
+		<acronym>NQS</acronym>
+		<full>Nonquasi-static</full>
+	</ac>
+	<ac>
+		<acronym>NRHF</acronym>
+		<full>NanoRoute High Frequency Router</full>
+	</ac>
+	<ac>
+		<acronym>NTBI</acronym>
+		<full>Negative Bias Temperature Instability</full>
+	</ac>
+	<ac>
+		<acronym>OA</acronym>
+		<full>Open Access</full>
+	</ac>
+	<ac>
+		<acronym>OASIS</acronym>
+		<full>Open Artwork System Interchange Standard</full>
+	</ac>
+	<ac>
+		<acronym>OCV</acronym>
+		<full>On-Chip Variation</full>
+	</ac>
+	<ac>
+		<acronym>OOMR</acronym>
+		<full>Out-Of-Module Reference</full>
+	</ac>
+	<ac>
+		<acronym>OOP</acronym>
+		<full>Out-of-Context Probing</full>
+	</ac>
+	<ac>
+		<acronym>OPC</acronym>
+		<full>Optical Proximity Correction</full>
+	</ac>
+	<ac>
+		<acronym>OPCG</acronym>
+		<full>On-Product Clock Generation</full>
+	</ac>
+	<ac>
+		<acronym>OSSN</acronym>
+		<full>Open Simulation System for Netlisting</full>
+	</ac>
+	<ac>
+		<acronym>PAE</acronym>
+		<full>Process Antenna Effect</full>
+	</ac>
+	<ac>
+		<acronym>PBKG</acronym>
+		<full>Protected Backgate</full>
+	</ac>
+	<ac>
+		<acronym>PDK</acronym>
+		<full>Process Design Kit</full>
+	</ac>
+	<ac>
+		<acronym>PEX</acronym>
+		<full>Parasitic Extraction</full>
+	</ac>
+	<ac>
+		<acronym>PIP</acronym>
+		<full>Polysilicon Insulator Polysilicon</full>
+	</ac>
+	<ac>
+		<acronym>PLA</acronym>
+		<full>Programmable Logic Array</full>
+	</ac>
+	<ac>
+		<acronym>PLE</acronym>
+		<full>Physical Layout Estimation</full>
+	</ac>
+	<ac>
+		<acronym>PPA</acronym>
+		<full>Performance, Power and Area</full>
+	</ac>
+	<ac>
+		<acronym>PR</acronym>
+		<full>Place and Route</full>
+	</ac>
+	<ac>
+		<acronym>PBRS</acronym>
+		<full>Pseudo-Random Bit Sequence</full>
+	</ac>
+	<ac>
+		<acronym>PD</acronym>
+		<full>Phase Detector</full>
+	</ac>
+	<ac>
+		<acronym>PDP</acronym>
+		<full>Power-Delay Product</full>
+	</ac>
+	<ac>
+		<acronym>PLCC</acronym>
+		<full>Plastic Leadless Chip Carrier</full>
+	</ac>
+	<ac>
+		<acronym>PSF</acronym>
+		<full>Parameter Storage Format</full>
+	</ac>
+	<ac>
+		<acronym>PMBIST</acronym>
+		<full>Programmable Memory Built-In Self-Test</full>
+	</ac>
+	<ac>
+		<acronym>PTAM</acronym>
+		<full>Power Test Access Mechanism</full>
+	</ac>
+	<ac>
+		<acronym>PVL</acronym>
+		<full>Physical Verification Language</full>
+	</ac>
+	<ac>
+		<acronym>PVS</acronym>
+		<full>Physical Verification Solution</full>
+	</ac>
+	<ac>
+		<acronym>PVT</acronym>
+		<full>Process, Voltage and Temperature</full>
+	</ac>
+	<ac>
+		<acronym>QOR</acronym>
+		<full>Quality of Results</full>
+	</ac>
+	<ac>
+		<acronym>QRC</acronym>
+		<full>Quantus Extraction Solution</full>
+	</ac>
+	<ac>
+		<acronym>RAK</acronym>
+		<full>Rapid Adoption Kit</full>
+	</ac>
+	<ac>
+		<acronym>RAP</acronym>
+		<full>Rapid Analog Prototype</full>
+	</ac>
+	<ac>
+		<acronym>RNM</acronym>
+		<full>Real Number Modeling</full>
+	</ac>
+	<ac>
+		<acronym>ROD</acronym>
+		<full>Relative Object Design</full>
+	</ac>
+	<ac>
+		<acronym>RSPF</acronym>
+		<full>Reduced Standard Parasitic Format</full>
+	</ac>
+	<ac>
+		<acronym>RTL</acronym>
+		<full>Register Transfer Logic</full>
+	</ac>
+	<ac>
+		<acronym>SCBE</acronym>
+		<full>Substrate current induced body effect</full>
+	</ac>
+	<ac>
+		<acronym>SDC</acronym>
+		<full>Standard Design Constraints</full>
+	</ac>
+	<ac>
+		<acronym>SDF</acronym>
+		<full>Standard Delay Format</full>
+	</ac>
+	<ac>
+		<acronym>SDL</acronym>
+		<full>Schematic Driven Layout</full>
+	</ac>
+	<ac>
+		<acronym>SDP</acronym>
+		<full>Structured Data Paths</full>
+	</ac>
+	<ac>
+		<acronym>SDR</acronym>
+		<full>Simulation driven routing</full>
+	</ac>
+	<ac>
+		<acronym>SFF</acronym>
+		<full>Scan Flip-Flop</full>
+	</ac>
+	<ac>
+		<acronym>SGE</acronym>
+		<full>Sun Grid Engine</full>
+	</ac>
+	<ac>
+		<acronym>SHE</acronym>
+		<full>Self Heating Effects</full>
+	</ac>
+	<ac>
+		<acronym>SI</acronym>
+		<full>Signal Integrity</full>
+	</ac>
+	<ac>
+		<acronym>SNA</acronym>
+		<full>Substrate Noise Analysis</full>
+	</ac>
+	<ac>
+		<acronym>SNR</acronym>
+		<full>Signal to Noise Ratio</full>
+	</ac>
+	<ac>
+		<acronym>SOA</acronym>
+		<full>Safe Operating Area</full>
+	</ac>
+	<ac>
+		<acronym>SOAC</acronym>
+		<full>Safe Operating Area Check</full>
+	</ac>
+	<ac>
+		<acronym>SoC</acronym>
+		<full>System on a Chip</full>
+	</ac>
+	<ac>
+		<acronym>SOI</acronym>
+		<full>Silicon-on-Insulator</full>
+	</ac>
+	<ac>
+		<acronym>SPD</acronym>
+		<full>Symbolic Placement of Devices</full>
+	</ac>
+	<ac>
+		<acronym>SPF</acronym>
+		<full>Standard Parasitic Format</full>
+	</ac>
+	<ac>
+		<acronym>SPICE</acronym>
+		<full>Simulation Program with Integrated Circuit Emphasis</full>
+	</ac>
+	<ac>
+		<acronym>SST2</acronym>
+		<full>Stanford Sentiment Treebank V2</full>
+	</ac>
+	<ac>
+		<acronym>SSTA</acronym>
+		<full>Statistical Static Timing Analysis</full>
+	</ac>
+	<ac>
+		<acronym>SSV</acronym>
+		<full>Silicon Signoff and Verification</full>
+	</ac>
+	<ac>
+		<acronym>STA</acronym>
+		<full>Static Timing Analysis</full>
+	</ac>
+	<ac>
+		<acronym>STI</acronym>
+		<full>Shallow Trench Isolation</full>
+	</ac>
+	<ac>
+		<acronym>SV</acronym>
+		<full>System Verilog</full>
+	</ac>
+	<ac>
+		<acronym>SVP</acronym>
+		<full>Silicon Virtual Prototype</full>
+	</ac>
+	<ac>
+		<acronym>SVS</acronym>
+		<full>Schematic Versus Schematic</full>
+	</ac>
+	<ac>
+		<acronym>TAT</acronym>
+		<full>Turnaround Time</full>
+	</ac>
+	<ac>
+		<acronym>Tcl</acronym>
+		<full>Tool Command Language</full>
+	</ac>
+	<ac>
+		<acronym>TDDB</acronym>
+		<full>Time Dependent Dielectric Breakdown</full>
+	</ac>
+	<ac>
+		<acronym>TNS</acronym>
+		<full>Total Negative Slack</full>
+	</ac>
+	<ac>
+		<acronym>TRP</acronym>
+		<full>Transfer Property Control</full>
+	</ac>
+	<ac>
+		<acronym>TSG</acronym>
+		<full>Text-to-Symbol Generator</full>
+	</ac>
+	<ac>
+		<acronym>UCN</acronym>
+		<full>Update Components and Nets</full>
+	</ac>
+	<ac>
+		<acronym>ULP</acronym>
+		<full>Update Layout Parameters</full>
+	</ac>
+	<ac>
+		<acronym>UNL</acronym>
+		<full>Unified Netlister</full>
+	</ac>
+	<ac>
+		<acronym>UPF</acronym>
+		<full>Unified Power Format</full>
+	</ac>
+	<ac>
+		<acronym>USP</acronym>
+		<full>Update Schematic Parameters</full>
+	</ac>
+	<ac>
+		<acronym>VCP</acronym>
+		<full>Virtuoso Custom Digital Placer</full>
+	</ac>
+	<ac>
+		<acronym>VDI</acronym>
+		<full>Virtuoso Digital Implementation</full>
+	</ac>
+	<ac>
+		<acronym>VDSP</acronym>
+		<full>Virtuoso Digital Signoff for Power</full>
+	</ac>
+	<ac>
+		<acronym>VDST</acronym>
+		<full>Virtuoso Digital Signoff for Timing</full>
+	</ac>
+	<ac>
+		<acronym>VFP</acronym>
+		<full>Virtuoso Floorplanner</full>
+	</ac>
+	<ac>
+		<acronym>VHDL</acronym>
+		<full>Very High Speed Integrated Circuit HDL</full>
+	</ac>
+	<ac>
+		<acronym>ViVA</acronym>
+		<full>Virtuoso Visualization and Analysis</full>
+	</ac>
+	<ac>
+		<acronym>VLM</acronym>
+		<full>Virtuoso Layout Optimize</full>
+	</ac>
+	<ac>
+		<acronym>VLS</acronym>
+		<full>Virtuoso Layout Suite</full>
+	</ac>
+	<ac>
+		<acronym>VLS GXL</acronym>
+		<full>Virtuoso Layout Suite GXL</full>
+	</ac>
+	<ac>
+		<acronym>VLS L</acronym>
+		<full>Virtuoso Layout Suite L</full>
+	</ac>
+	<ac>
+		<acronym>VLS XL</acronym>
+		<full>Virtuoso Layout Suite XL</full>
+	</ac>
+	<ac>
+		<acronym>VMF</acronym>
+		<full>Virtual Metal Fill</full>
+	</ac>
+	<ac>
+		<acronym>VSE</acronym>
+		<full>Virtuoso Schematic Editor</full>
+	</ac>
+	<ac>
+		<acronym>VSR</acronym>
+		<full>Virtuoso Space-based Router</full>
+	</ac>
+	<ac>
+		<acronym>WDF</acronym>
+		<full>Workshare Compare Delta File</full>
+	</ac>
+	<ac>
+		<acronym>WDU</acronym>
+		<full>Whitebox Design Unit</full>
+	</ac>
+	<ac>
+		<acronym>WEE</acronym>
+		<full>Wire-Edge Enlargement</full>
+	</ac>
+	<ac>
+		<acronym>WLM</acronym>
+		<full>Wire-Load Model</full>
+	</ac>
+	<ac>
+		<acronym>WNS</acronym>
+		<full>Worst Negative Slack</full>
+	</ac>
+	<ac>
+		<acronym>WPE</acronym>
+		<full>Well Proximity Effect</full>
+	</ac>
+</acronyms>
