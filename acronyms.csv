@@ -101,11 +101,14 @@ GISL,Gate Induced Source Leakage
 GLD,Graphical LVS Debugger
 GLS,Gate-Level Simulation
 GSFS,Generate Selected From Source
+GTD,Global Timing Debug
 HBT,Hetero-Junction Bipolar Transistor
 HBM,Human-Body Model
 HCI,Hot Carrier Injection
 HDL,Hardware Description Language
 HED,Hierarchy Editor
+HMF,Hierarchical Metal Fill Database Flow
+HRCX,Hierarchical Extraction
 IBIS,I/O Buffer Information Specification
 ICE,Integration Constraint Editor
 ICT,Interconnect Technology
@@ -115,6 +118,7 @@ IE,Interface Element
 IGFET,Insulated-Gate Field-Effect Transistor
 ILD,Inter-Layer Dielectric
 ILM,Interface Logic Models
+IOPT,Incremental Optimization
 IP,Intellectual Property
 KCL,Kirchhoff’s Current Law
 KVL,Kirchhoff’s Voltage Law
@@ -132,6 +136,7 @@ LSF,Load Sharing Facility
 LTE,Local Truncation Error
 LVL,Layout Versus Layout
 LVS,Layout Versus Schematic
+MBCI,Multibit Cell Inference
 MC,Monte Carlo
 MISFET,Metal-Insulator Semiconductor FET
 MOSFET,Metal-Oxide Semiconductor FET
@@ -140,6 +145,8 @@ MEOL,Middle End of Line
 MIM,Metal Insulator Metal
 MM,Machine Model
 MMMC,Multi-Mode Multi-Corner
+MODGEN,Module Generator
+MPC,Multiple Process Corner
 MPT,Multi-Patterning Technology
 MPW,Multi-Project Wafer
 MSV,Multiple Supply Voltage
@@ -155,6 +162,7 @@ OCV,On-Chip Variation
 OOMR,Out-Of-Module Reference
 OOP,Out-of-Context Probing
 OPC,Optical Proximity Correction
+OPCG,On-Product Clock Generation
 OSSN,Open Simulation System for Netlisting
 PAE,Process Antenna Effect
 PBKG,Protected Backgate
@@ -170,6 +178,8 @@ PD,Phase Detector
 PDP,Power-Delay Product
 PLCC,Plastic Leadless Chip Carrier
 PSF,Parameter Storage Format
+PMBIST,Programmable Memory Built-In Self-Test
+PTAM,Power Test Access Mechanism
 PVL,Physical Verification Language
 PVS,Physical Verification Solution
 PVT,Process, Voltage and Temperature
@@ -231,6 +241,7 @@ VLS,Virtuoso Layout Suite
 VLS GXL,Virtuoso Layout Suite GXL
 VLS L,Virtuoso Layout Suite L
 VLS XL,Virtuoso Layout Suite XL
+VMF,Virtual Metal Fill
 VSE,Virtuoso Schematic Editor
 VSR,Virtuoso Space-based Router
 WDF,Workshare Compare Delta File
