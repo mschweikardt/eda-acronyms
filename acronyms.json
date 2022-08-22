@@ -1,0 +1,505 @@
+{ "acronyms": [
+	{ "acronym": "AAP"
+	, "full": "Analog Auto Placer" },
+	{ "acronym": "ABE"
+	, "full": "Advanced Boolean Engine" },
+	{ "acronym": "ADR"
+	, "full": "Activity-Driven Restructuring" },
+	{ "acronym": "AOCV"
+	, "full": "Advanced On-chip Variation" },
+	{ "acronym": "ADE"
+	, "full": "Analog Design Environment" },
+	{ "acronym": "AEL"
+	, "full": "Analog Expression Language" },
+	{ "acronym": "AMS"
+	, "full": "Analog-Mixed-Signal" },
+	{ "acronym": "AMSD"
+	, "full": "AMS Designer" },
+	{ "acronym": "AoT"
+	, "full": "Analog on Top" },
+	{ "acronym": "APS"
+	, "full": "Accelerated Parallel Simulation" },
+	{ "acronym": "ATPG"
+	, "full": "Automatic Test Pattern Generation" },
+	{ "acronym": "AVUM"
+	, "full": "AMS Virtuoso Use Model" },
+	{ "acronym": "AXUM"
+	, "full": "AMS Xcelium Use Model" },
+	{ "acronym": "API"
+	, "full": "Application Programming Interface" },
+	{ "acronym": "ALU"
+	, "full": "Arithmetic Logic Unit" },
+	{ "acronym": "ASIC"
+	, "full": "Application-Specific Integrated Circuit" },
+	{ "acronym": "BDU"
+	, "full": "Blackbox Design Unit" },
+	{ "acronym": "BEOL"
+	, "full": "Back End of Line" },
+	{ "acronym": "BER"
+	, "full": "Bit Error Rate" },
+	{ "acronym": "BiCMOS"
+	, "full": "Bipolar Complementary Metal Oxide Silicon" },
+	{ "acronym": "BSIM"
+	, "full": "Berkeley Short-Channel IGFET Model" },
+	{ "acronym": "BIST"
+	, "full": "Built-in Self Test" },
+	{ "acronym": "CAD"
+	, "full": "Computer Aided Design" },
+	{ "acronym": "CAN"
+	, "full": "Cadence Academic Network" },
+	{ "acronym": "CAS"
+	, "full": "Check Against Source" },
+	{ "acronym": "CCD"
+	, "full": "Conformal Constraints Designer" },
+	{ "acronym": "CCF"
+	, "full": "Clock Constraint File" },
+	{ "acronym": "CCL"
+	, "full": "Common Command Language" },
+	{ "acronym": "CCS"
+	, "full": "Composite Current Source" },
+	{ "acronym": "CDF"
+	, "full": "Component Description Format" },
+	{ "acronym": "CDL"
+	, "full": "Circuit Description Language" },
+	{ "acronym": "CDM"
+	, "full": "Charge Device Model" },
+	{ "acronym": "CDBA"
+	, "full": "Cadence Database API" },
+	{ "acronym": "CDS"
+	, "full": "Cadence Design Systems" },
+	{ "acronym": "CIF"
+	, "full": "Caltech Intermediate Format" },
+	{ "acronym": "CEL"
+	, "full": "CDF Expression Language" },
+	{ "acronym": "CGIC"
+	, "full": "Clock-gating integrated cell" },
+	{ "acronym": "CIW"
+	, "full": "Command Interpreter Window" },
+	{ "acronym": "CMI"
+	, "full": "Compile Module Interface" },
+	{ "acronym": "CML"
+	, "full": "Channel Length Modulation" },
+	{ "acronym": "CMOS"
+	, "full": "Complementary Metal Oxide Silicon" },
+	{ "acronym": "CMP"
+	, "full": "Chemical Mechanical Polishing" },
+	{ "acronym": "CPF"
+	, "full": "Common Power Format" },
+	{ "acronym": "CDB"
+	, "full": "Cadence Database" },
+	{ "acronym": "CPG"
+	, "full": "Cadence Placement Guidance" },
+	{ "acronym": "CMC"
+	, "full": "Compact Modeling Counsel" },
+	{ "acronym": "CPH"
+	, "full": "Configure Physical Hierarchy" },
+	{ "acronym": "CPPR"
+	, "full": "Clock Path Pessimism Removal" },
+	{ "acronym": "CRPR"
+	, "full": "Clock Reconvergence Pessimism Removal" },
+	{ "acronym": "CSA"
+	, "full": "Carry-Save Adder" },
+	{ "acronym": "CSR"
+	, "full": "Cadence Space-based Router" },
+	{ "acronym": "CTD"
+	, "full": "Clock Tree Debugger" },
+	{ "acronym": "CTS"
+	, "full": "Clock Tree Synthesis" },
+	{ "acronym": "CVD"
+	, "full": "Common User Interface" },
+	{ "acronym": "DDC"
+	, "full": "Define Device Correspondence" },
+	{ "acronym": "DFII"
+	, "full": "Design Framework II" },
+	{ "acronym": "DFM"
+	, "full": "Design for Manufacturability" },
+	{ "acronym": "DFT"
+	, "full": "Design for Test" },
+	{ "acronym": "DIBL"
+	, "full": "Drain-induced barrier lowering" },
+	{ "acronym": "DITS"
+	, "full": "Drain-induced threshold shift" },
+	{ "acronym": "DMIM"
+	, "full": "Double Metal Insulator Metal" },
+	{ "acronym": "DoT"
+	, "full": "Digital on Top" },
+	{ "acronym": "DPO"
+	, "full": "Dual Port Object" },
+	{ "acronym": "DPL"
+	, "full": "Disembodied Property List" },
+	{ "acronym": "DDPI"
+	, "full": "Design Data Procedural Interface" },
+	{ "acronym": "DPT"
+	, "full": "Double Patterning Technology" },
+	{ "acronym": "DRC"
+	, "full": "Design Rule Check" },
+	{ "acronym": "DRD"
+	, "full": "Design Rule Driven" },
+	{ "acronym": "DRL"
+	, "full": "Device Recognition Layer" },
+	{ "acronym": "DRV"
+	, "full": "Design Rule Violation" },
+	{ "acronym": "DSPF"
+	, "full": "Detaild Standard Parasitic Format" },
+	{ "acronym": "DUT"
+	, "full": "Device under Test" },
+	{ "acronym": "ECC"
+	, "full": "Error-Correcting Codes" },
+	{ "acronym": "ECF"
+	, "full": "Early Clock Flow" },
+	{ "acronym": "ECO"
+	, "full": "Engineering Change Order" },
+	{ "acronym": "ECSM"
+	, "full": "Effective Current Source Model" },
+	{ "acronym": "EDA"
+	, "full": "Electronic Design Automation" },
+	{ "acronym": "EDIF"
+	, "full": "Electronic Design Interchange Format" },
+	{ "acronym": "EIP"
+	, "full": "Edit In Place" },
+	{ "acronym": "EMIR"
+	, "full": "Electromigration and IR-Drop" },
+	{ "acronym": "ENOB"
+	, "full": "Effective Number of Bits" },
+	{ "acronym": "EOT"
+	, "full": "Equivalent Oxide Thickness" },
+	{ "acronym": "ERA"
+	, "full": "Early Rail Analysis" },
+	{ "acronym": "ERC"
+	, "full": "Electrical Rule Check" },
+	{ "acronym": "ESD"
+	, "full": "Electrostatic Discharge" },
+	{ "acronym": "ESR"
+	, "full": "Effective Series Resistance" },
+	{ "acronym": "ETL"
+	, "full": "Edge Triggered Latch" },
+	{ "acronym": "FET"
+	, "full": "Field-Effect Transistor" },
+	{ "acronym": "FBB"
+	, "full": "Forward Body Bias" },
+	{ "acronym": "FEOL"
+	, "full": "Front End of Line" },
+	{ "acronym": "FF"
+	, "full": "Flip-Flop" },
+	{ "acronym": "FGR"
+	, "full": "Fluid Guard Ring" },
+	{ "acronym": "FN"
+	, "full": "Fowler-Nordheim" },
+	{ "acronym": "FSDB"
+	, "full": "Fast Signal Database" },
+	{ "acronym": "FSM"
+	, "full": "Finite State Machine" },
+	{ "acronym": "GDSII"
+	, "full": "Graphical Design Station II" },
+	{ "acronym": "GFS"
+	, "full": "Generate From Source" },
+	{ "acronym": "GIDL"
+	, "full": "Gate Induced Drain Leakage" },
+	{ "acronym": "GISL"
+	, "full": "Gate Induced Source Leakage" },
+	{ "acronym": "GLD"
+	, "full": "Graphical LVS Debugger" },
+	{ "acronym": "GLS"
+	, "full": "Gate-Level Simulation" },
+	{ "acronym": "GSFS"
+	, "full": "Generate Selected From Source" },
+	{ "acronym": "GTD"
+	, "full": "Global Timing Debug" },
+	{ "acronym": "HBT"
+	, "full": "Hetero-Junction Bipolar Transistor" },
+	{ "acronym": "HBM"
+	, "full": "Human-Body Model" },
+	{ "acronym": "HCI"
+	, "full": "Hot Carrier Injection" },
+	{ "acronym": "HDL"
+	, "full": "Hardware Description Language" },
+	{ "acronym": "HED"
+	, "full": "Hierarchy Editor" },
+	{ "acronym": "HMF"
+	, "full": "Hierarchical Metal Fill Database Flow" },
+	{ "acronym": "HRCX"
+	, "full": "Hierarchical Extraction" },
+	{ "acronym": "IBIS"
+	, "full": "I/O Buffer Information Specification" },
+	{ "acronym": "ICE"
+	, "full": "Integration Constraint Editor" },
+	{ "acronym": "ICT"
+	, "full": "Interconnect Technology" },
+	{ "acronym": "ICRP"
+	, "full": "IC Remote Processes" },
+	{ "acronym": "ITRS"
+	, "full": "International Technology Roadmap for Semiconductors" },
+	{ "acronym": "IE"
+	, "full": "Interface Element" },
+	{ "acronym": "IGFET"
+	, "full": "Insulated-Gate Field-Effect Transistor" },
+	{ "acronym": "ILD"
+	, "full": "Inter-Layer Dielectric" },
+	{ "acronym": "ILM"
+	, "full": "Interface Logic Models" },
+	{ "acronym": "IOPT"
+	, "full": "Incremental Optimization" },
+	{ "acronym": "IP"
+	, "full": "Intellectual Property" },
+	{ "acronym": "KCL"
+	, "full": "Kirchhoff’s Current Law" },
+	{ "acronym": "KVL"
+	, "full": "Kirchhoff’s Voltage Law" },
+	{ "acronym": "LDD"
+	, "full": "Lightly Doped Drain" },
+	{ "acronym": "LDE"
+	, "full": "Layout-Dependent Effects" },
+	{ "acronym": "LDS"
+	, "full": "Low-Discrepancy Sequence" },
+	{ "acronym": "LEC"
+	, "full": "Logic Equivalence Checking" },
+	{ "acronym": "LEF"
+	, "full": "Library Exchange Format" },
+	{ "acronym": "LHS"
+	, "full": "Latin Hypercube Sampling" },
+	{ "acronym": "LOCOS"
+	, "full": "Local Oxidation of Silicon" },
+	{ "acronym": "LPP"
+	, "full": "Layer-Purpose Pair" },
+	{ "acronym": "LRP"
+	, "full": "Least Resistive Path" },
+	{ "acronym": "LSCS"
+	, "full": "Large-Scale Cloud Simulation" },
+	{ "acronym": "LSF"
+	, "full": "Load Sharing Facility" },
+	{ "acronym": "LTE"
+	, "full": "Local Truncation Error" },
+	{ "acronym": "LVL"
+	, "full": "Layout Versus Layout" },
+	{ "acronym": "LVS"
+	, "full": "Layout Versus Schematic" },
+	{ "acronym": "MBCI"
+	, "full": "Multibit Cell Inference" },
+	{ "acronym": "MC"
+	, "full": "Monte Carlo" },
+	{ "acronym": "MISFET"
+	, "full": "Metal-Insulator Semiconductor FET" },
+	{ "acronym": "MOSFET"
+	, "full": "Metal-Oxide Semiconductor FET" },
+	{ "acronym": "MDL"
+	, "full": "Measurement Description Language" },
+	{ "acronym": "MEOL"
+	, "full": "Middle End of Line" },
+	{ "acronym": "MIM"
+	, "full": "Metal Insulator Metal" },
+	{ "acronym": "MM"
+	, "full": "Machine Model" },
+	{ "acronym": "MMMC"
+	, "full": "Multi-Mode Multi-Corner" },
+	{ "acronym": "MODGEN"
+	, "full": "Module Generator" },
+	{ "acronym": "MPC"
+	, "full": "Multiple Process Corner" },
+	{ "acronym": "MPT"
+	, "full": "Multi-Patterning Technology" },
+	{ "acronym": "MPW"
+	, "full": "Multi-Project Wafer" },
+	{ "acronym": "MSV"
+	, "full": "Multiple Supply Voltage" },
+	{ "acronym": "MTS"
+	, "full": "Multi-Technology Simulation" },
+	{ "acronym": "NLDM"
+	, "full": "Non-linear Delay Model" },
+	{ "acronym": "NLP"
+	, "full": "Netlist property" },
+	{ "acronym": "NQS"
+	, "full": "Nonquasi-static" },
+	{ "acronym": "NRHF"
+	, "full": "NanoRoute High Frequency Router" },
+	{ "acronym": "NTBI"
+	, "full": "Negative Bias Temperature Instability" },
+	{ "acronym": "OA"
+	, "full": "Open Access" },
+	{ "acronym": "OASIS"
+	, "full": "Open Artwork System Interchange Standard" },
+	{ "acronym": "OCV"
+	, "full": "On-Chip Variation" },
+	{ "acronym": "OOMR"
+	, "full": "Out-Of-Module Reference" },
+	{ "acronym": "OOP"
+	, "full": "Out-of-Context Probing" },
+	{ "acronym": "OPC"
+	, "full": "Optical Proximity Correction" },
+	{ "acronym": "OPCG"
+	, "full": "On-Product Clock Generation" },
+	{ "acronym": "OSSN"
+	, "full": "Open Simulation System for Netlisting" },
+	{ "acronym": "PAE"
+	, "full": "Process Antenna Effect" },
+	{ "acronym": "PBKG"
+	, "full": "Protected Backgate" },
+	{ "acronym": "PDK"
+	, "full": "Process Design Kit" },
+	{ "acronym": "PEX"
+	, "full": "Parasitic Extraction" },
+	{ "acronym": "PIP"
+	, "full": "Polysilicon Insulator Polysilicon" },
+	{ "acronym": "PLA"
+	, "full": "Programmable Logic Array" },
+	{ "acronym": "PLE"
+	, "full": "Physical Layout Estimation" },
+	{ "acronym": "PPA"
+	, "full": "Performance, Power and Area" },
+	{ "acronym": "PR"
+	, "full": "Place and Route" },
+	{ "acronym": "PBRS"
+	, "full": "Pseudo-Random Bit Sequence" },
+	{ "acronym": "PD"
+	, "full": "Phase Detector" },
+	{ "acronym": "PDP"
+	, "full": "Power-Delay Product" },
+	{ "acronym": "PLCC"
+	, "full": "Plastic Leadless Chip Carrier" },
+	{ "acronym": "PSF"
+	, "full": "Parameter Storage Format" },
+	{ "acronym": "PMBIST"
+	, "full": "Programmable Memory Built-In Self-Test" },
+	{ "acronym": "PTAM"
+	, "full": "Power Test Access Mechanism" },
+	{ "acronym": "PVL"
+	, "full": "Physical Verification Language" },
+	{ "acronym": "PVS"
+	, "full": "Physical Verification Solution" },
+	{ "acronym": "PVT"
+	, "full": "Process, Voltage and Temperature" },
+	{ "acronym": "QOR"
+	, "full": "Quality of Results" },
+	{ "acronym": "QRC"
+	, "full": "Quantus Extraction Solution" },
+	{ "acronym": "RAK"
+	, "full": "Rapid Adoption Kit" },
+	{ "acronym": "RAP"
+	, "full": "Rapid Analog Prototype" },
+	{ "acronym": "RNM"
+	, "full": "Real Number Modeling" },
+	{ "acronym": "ROD"
+	, "full": "Relative Object Design" },
+	{ "acronym": "RSPF"
+	, "full": "Reduced Standard Parasitic Format" },
+	{ "acronym": "RTL"
+	, "full": "Register Transfer Logic" },
+	{ "acronym": "SCBE"
+	, "full": "Substrate current induced body effect" },
+	{ "acronym": "SDC"
+	, "full": "Standard Design Constraints" },
+	{ "acronym": "SDF"
+	, "full": "Standard Delay Format" },
+	{ "acronym": "SDL"
+	, "full": "Schematic Driven Layout" },
+	{ "acronym": "SDP"
+	, "full": "Structured Data Paths" },
+	{ "acronym": "SDR"
+	, "full": "Simulation driven routing" },
+	{ "acronym": "SFF"
+	, "full": "Scan Flip-Flop" },
+	{ "acronym": "SGE"
+	, "full": "Sun Grid Engine" },
+	{ "acronym": "SHE"
+	, "full": "Self Heating Effects" },
+	{ "acronym": "SI"
+	, "full": "Signal Integrity" },
+	{ "acronym": "SNA"
+	, "full": "Substrate Noise Analysis" },
+	{ "acronym": "SNR"
+	, "full": "Signal to Noise Ratio" },
+	{ "acronym": "SOA"
+	, "full": "Safe Operating Area" },
+	{ "acronym": "SOAC"
+	, "full": "Safe Operating Area Check" },
+	{ "acronym": "SoC"
+	, "full": "System on a Chip" },
+	{ "acronym": "SOI"
+	, "full": "Silicon-on-Insulator" },
+	{ "acronym": "SPD"
+	, "full": "Symbolic Placement of Devices" },
+	{ "acronym": "SPF"
+	, "full": "Standard Parasitic Format" },
+	{ "acronym": "SPICE"
+	, "full": "Simulation Program with Integrated Circuit Emphasis" },
+	{ "acronym": "SST2"
+	, "full": "Stanford Sentiment Treebank V2" },
+	{ "acronym": "SSTA"
+	, "full": "Statistical Static Timing Analysis" },
+	{ "acronym": "SSV"
+	, "full": "Silicon Signoff and Verification" },
+	{ "acronym": "STA"
+	, "full": "Static Timing Analysis" },
+	{ "acronym": "STI"
+	, "full": "Shallow Trench Isolation" },
+	{ "acronym": "SV"
+	, "full": "System Verilog" },
+	{ "acronym": "SVP"
+	, "full": "Silicon Virtual Prototype" },
+	{ "acronym": "SVS"
+	, "full": "Schematic Versus Schematic" },
+	{ "acronym": "TAT"
+	, "full": "Turnaround Time" },
+	{ "acronym": "Tcl"
+	, "full": "Tool Command Language" },
+	{ "acronym": "TDDB"
+	, "full": "Time Dependent Dielectric Breakdown" },
+	{ "acronym": "TNS"
+	, "full": "Total Negative Slack" },
+	{ "acronym": "TRP"
+	, "full": "Transfer Property Control" },
+	{ "acronym": "TSG"
+	, "full": "Text-to-Symbol Generator" },
+	{ "acronym": "UCN"
+	, "full": "Update Components and Nets" },
+	{ "acronym": "ULP"
+	, "full": "Update Layout Parameters" },
+	{ "acronym": "UNL"
+	, "full": "Unified Netlister" },
+	{ "acronym": "UPF"
+	, "full": "Unified Power Format" },
+	{ "acronym": "USP"
+	, "full": "Update Schematic Parameters" },
+	{ "acronym": "VCP"
+	, "full": "Virtuoso Custom Digital Placer" },
+	{ "acronym": "VDI"
+	, "full": "Virtuoso Digital Implementation" },
+	{ "acronym": "VDSP"
+	, "full": "Virtuoso Digital Signoff for Power" },
+	{ "acronym": "VDST"
+	, "full": "Virtuoso Digital Signoff for Timing" },
+	{ "acronym": "VFP"
+	, "full": "Virtuoso Floorplanner" },
+	{ "acronym": "VHDL"
+	, "full": "Very High Speed Integrated Circuit HDL" },
+	{ "acronym": "ViVA"
+	, "full": "Virtuoso Visualization and Analysis" },
+	{ "acronym": "VLM"
+	, "full": "Virtuoso Layout Optimize" },
+	{ "acronym": "VLS"
+	, "full": "Virtuoso Layout Suite" },
+	{ "acronym": "VLS GXL"
+	, "full": "Virtuoso Layout Suite GXL" },
+	{ "acronym": "VLS L"
+	, "full": "Virtuoso Layout Suite L" },
+	{ "acronym": "VLS XL"
+	, "full": "Virtuoso Layout Suite XL" },
+	{ "acronym": "VMF"
+	, "full": "Virtual Metal Fill" },
+	{ "acronym": "VSE"
+	, "full": "Virtuoso Schematic Editor" },
+	{ "acronym": "VSR"
+	, "full": "Virtuoso Space-based Router" },
+	{ "acronym": "WDF"
+	, "full": "Workshare Compare Delta File" },
+	{ "acronym": "WDU"
+	, "full": "Whitebox Design Unit" },
+	{ "acronym": "WEE"
+	, "full": "Wire-Edge Enlargement" },
+	{ "acronym": "WLM"
+	, "full": "Wire-Load Model" },
+	{ "acronym": "WNS"
+	, "full": "Worst Negative Slack" },
+	{ "acronym": "WPE"
+	, "full": "Well Proximity Effect" }
+	]
+}
