@@ -25,6 +25,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Berkeley Short-Channel IGFET Model (BSIM)
 - Built-in Self Test (BIST)
 - Computer Aided Design (CAD)
+- Cadence Academic Network (CAN)
 - Check Against Source (CAS)
 - Conformal Constraints Designer (CCD)
 - Clock Constraint File (CCF)
