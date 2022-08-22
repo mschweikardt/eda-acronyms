@@ -253,3 +253,4 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Wire-Load Model (WLM)
 - Worst Negative Slack (WNS)
 - Well Proximity Effect (WPE)
+- Expert Design Plan (EDP)
