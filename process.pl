@@ -31,7 +31,7 @@ while ($line=<README>)
         $gls = lc $2;
         print ACRONYMS "\\acrodef{$2}{$1}\n";
         print GLOSSARY "\\newglossaryentry{$gls}\n{ name={$2}\n, description={}\n, first={$1 ($2)}\n, long={$1}\n}\n";
-        print CSV "$2,$1\n";
-        print YAML "  - $2: $1\n";
+        print CSV "$2,\"$1\"\n";
+        print YAML "  - $2: \"$1\"\n";
     }
 }

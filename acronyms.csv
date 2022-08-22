@@ -1,252 +1,252 @@
 Acronym,Full
-AAP,Analog Auto Placer
-ABE,Advanced Boolean Engine
-ADR,Activity-Driven Restructuring
-AOCV,Advanced On-chip Variation
-ADE,Analog Design Environment
-AEL,Analog Expression Language
-AMS,Analog-Mixed-Signal
-AMSD,AMS Designer
-AoT,Analog on Top
-APS,Accelerated Parallel Simulation
-ATPG,Automatic Test Pattern Generation
-AVUM,AMS Virtuoso Use Model
-AXUM,AMS Xcelium Use Model
-API,Application Programming Interface
-ALU,Arithmetic Logic Unit
-ASIC,Application-Specific Integrated Circuit
-BDU,Blackbox Design Unit
-BEOL,Back End of Line
-BER,Bit Error Rate
-BiCMOS,Bipolar Complementary Metal Oxide Silicon
-BSIM,Berkeley Short-Channel IGFET Model
-BIST,Built-in Self Test
-CAD,Computer Aided Design
-CAN,Cadence Academic Network
-CAS,Check Against Source
-CCD,Conformal Constraints Designer
-CCF,Clock Constraint File
-CCL,Common Command Language
-CCS,Composite Current Source
-CDF,Component Description Format
-CDL,Circuit Description Language
-CDM,Charge Device Model
-CDBA,Cadence Database API
-CDS,Cadence Design Systems
-CIF,Caltech Intermediate Format
-CEL,CDF Expression Language
-CGIC,Clock-gating integrated cell
-CIW,Command Interpreter Window
-CMI,Compile Module Interface
-CML,Channel Length Modulation
-CMOS,Complementary Metal Oxide Silicon
-CMP,Chemical Mechanical Polishing
-CPF,Common Power Format
-CDB,Cadence Database
-CPG,Cadence Placement Guidance
-CMC,Compact Modeling Counsel
-CPH,Configure Physical Hierarchy
-CPPR,Clock Path Pessimism Removal
-CRPR,Clock Reconvergence Pessimism Removal
-CSA,Carry-Save Adder
-CSR,Cadence Space-based Router
-CTD,Clock Tree Debugger
-CTS,Clock Tree Synthesis
-CVD,Common User Interface
-DDC,Define Device Correspondence
-DFII,Design Framework II
-DFM,Design for Manufacturability
-DFT,Design for Test
-DIBL,Drain-induced barrier lowering
-DITS,Drain-induced threshold shift
-DMIM,Double Metal Insulator Metal
-DoT,Digital on Top
-DPO,Dual Port Object
-DPL,Disembodied Property List
-DDPI,Design Data Procedural Interface
-DPT,Double Patterning Technology
-DRC,Design Rule Check
-DRD,Design Rule Driven
-DRL,Device Recognition Layer
-DRV,Design Rule Violation
-DSPF,Detaild Standard Parasitic Format
-DUT,Device under Test
-ECC,Error-Correcting Codes
-ECF,Early Clock Flow
-ECO,Engineering Change Order
-ECSM,Effective Current Source Model
-EDA,Electronic Design Automation
-EDIF,Electronic Design Interchange Format
-EIP,Edit In Place
-EMIR,Electromigration and IR-Drop
-ENOB,Effective Number of Bits
-EOT,Equivalent Oxide Thickness
-ERA,Early Rail Analysis
-ERC,Electrical Rule Check
-ESD,Electrostatic Discharge
-ESR,Effective Series Resistance
-ETL,Edge Triggered Latch
-FET,Field-Effect Transistor
-FBB,Forward Body Bias
-FEOL,Front End of Line
-FF,Flip-Flop
-FGR,Fluid Guard Ring
-FN,Fowler-Nordheim
-FSDB,Fast Signal Database
-FSM,Finite State Machine
-GDSII,Graphical Design Station II
-GFS,Generate From Source
-GIDL,Gate Induced Drain Leakage
-GISL,Gate Induced Source Leakage
-GLD,Graphical LVS Debugger
-GLS,Gate-Level Simulation
-GSFS,Generate Selected From Source
-GTD,Global Timing Debug
-HBT,Hetero-Junction Bipolar Transistor
-HBM,Human-Body Model
-HCI,Hot Carrier Injection
-HDL,Hardware Description Language
-HED,Hierarchy Editor
-HMF,Hierarchical Metal Fill Database Flow
-HRCX,Hierarchical Extraction
-IBIS,I/O Buffer Information Specification
-ICE,Integration Constraint Editor
-ICT,Interconnect Technology
-ICRP,IC Remote Processes
-ITRS,International Technology Roadmap for Semiconductors
-IE,Interface Element
-IGFET,Insulated-Gate Field-Effect Transistor
-ILD,Inter-Layer Dielectric
-ILM,Interface Logic Models
-IOPT,Incremental Optimization
-IP,Intellectual Property
-KCL,Kirchhoff’s Current Law
-KVL,Kirchhoff’s Voltage Law
-LDD,Lightly Doped Drain
-LDE,Layout-Dependent Effects
-LDS,Low-Discrepancy Sequence
-LEC,Logic Equivalence Checking
-LEF,Library Exchange Format
-LHS,Latin Hypercube Sampling
-LOCOS,Local Oxidation of Silicon
-LPP,Layer-Purpose Pair
-LRP,Least Resistive Path
-LSCS,Large-Scale Cloud Simulation
-LSF,Load Sharing Facility
-LTE,Local Truncation Error
-LVL,Layout Versus Layout
-LVS,Layout Versus Schematic
-MBCI,Multibit Cell Inference
-MC,Monte Carlo
-MISFET,Metal-Insulator Semiconductor FET
-MOSFET,Metal-Oxide Semiconductor FET
-MDL,Measurement Description Language
-MEOL,Middle End of Line
-MIM,Metal Insulator Metal
-MM,Machine Model
-MMMC,Multi-Mode Multi-Corner
-MODGEN,Module Generator
-MPC,Multiple Process Corner
-MPT,Multi-Patterning Technology
-MPW,Multi-Project Wafer
-MSV,Multiple Supply Voltage
-MTS,Multi-Technology Simulation
-NLDM,Non-linear Delay Model
-NLP,Netlist property
-NQS,Nonquasi-static
-NRHF,NanoRoute High Frequency Router
-NTBI,Negative Bias Temperature Instability
-OA,Open Access
-OASIS,Open Artwork System Interchange Standard
-OCV,On-Chip Variation
-OOMR,Out-Of-Module Reference
-OOP,Out-of-Context Probing
-OPC,Optical Proximity Correction
-OPCG,On-Product Clock Generation
-OSSN,Open Simulation System for Netlisting
-PAE,Process Antenna Effect
-PBKG,Protected Backgate
-PDK,Process Design Kit
-PEX,Parasitic Extraction
-PIP,Polysilicon Insulator Polysilicon
-PLA,Programmable Logic Array
-PLE,Physical Layout Estimation
-PPA,Performance, Power and Area
-PR,Place and Route
-PBRS,Pseudo-Random Bit Sequence
-PD,Phase Detector
-PDP,Power-Delay Product
-PLCC,Plastic Leadless Chip Carrier
-PSF,Parameter Storage Format
-PMBIST,Programmable Memory Built-In Self-Test
-PTAM,Power Test Access Mechanism
-PVL,Physical Verification Language
-PVS,Physical Verification Solution
-PVT,Process, Voltage and Temperature
-QOR,Quality of Results
-QRC,Quantus Extraction Solution
-RAK,Rapid Adoption Kit
-RAP,Rapid Analog Prototype
-RNM,Real Number Modeling
-ROD,Relative Object Design
-RSPF,Reduced Standard Parasitic Format
-RTL,Register Transfer Logic
-SCBE,Substrate current induced body effect
-SDC,Standard Design Constraints
-SDF,Standard Delay Format
-SDL,Schematic Driven Layout
-SDP,Structured Data Paths
-SDR,Simulation driven routing
-SFF,Scan Flip-Flop
-SGE,Sun Grid Engine
-SHE,Self Heating Effects
-SI,Signal Integrity
-SNA,Substrate Noise Analysis
-SNR,Signal to Noise Ratio
-SOA,Safe Operating Area
-SOAC,Safe Operating Area Check
-SoC,System on a Chip
-SOI,Silicon-on-Insulator
-SPD,Symbolic Placement of Devices
-SPF,Standard Parasitic Format
-SPICE,Simulation Program with Integrated Circuit Emphasis
-SST2,Stanford Sentiment Treebank V2
-SSTA,Statistical Static Timing Analysis
-SSV,Silicon Signoff and Verification
-STA,Static Timing Analysis
-STI,Shallow Trench Isolation
-SV,System Verilog
-SVP,Silicon Virtual Prototype
-SVS,Schematic Versus Schematic
-TAT,Turnaround Time
-Tcl,Tool Command Language
-TDDB,Time Dependent Dielectric Breakdown
-TNS,Total Negative Slack
-TRP,Transfer Property Control
-TSG,Text-to-Symbol Generator
-UCN,Update Components and Nets
-ULP,Update Layout Parameters
-UNL,Unified Netlister
-UPF,Unified Power Format
-USP,Update Schematic Parameters
-VCP,Virtuoso Custom Digital Placer
-VDI,Virtuoso Digital Implementation
-VDSP,Virtuoso Digital Signoff for Power
-VDST,Virtuoso Digital Signoff for Timing
-VFP,Virtuoso Floorplanner
-VHDL,Very High Speed Integrated Circuit HDL
-ViVA,Virtuoso Visualization and Analysis
-VLM,Virtuoso Layout Optimize
-VLS,Virtuoso Layout Suite
-VLS GXL,Virtuoso Layout Suite GXL
-VLS L,Virtuoso Layout Suite L
-VLS XL,Virtuoso Layout Suite XL
-VMF,Virtual Metal Fill
-VSE,Virtuoso Schematic Editor
-VSR,Virtuoso Space-based Router
-WDF,Workshare Compare Delta File
-WDU,Whitebox Design Unit
-WEE,Wire-Edge Enlargement
-WLM,Wire-Load Model
-WNS,Worst Negative Slack
-WPE,Well Proximity Effect
+AAP,"Analog Auto Placer"
+ABE,"Advanced Boolean Engine"
+ADR,"Activity-Driven Restructuring"
+AOCV,"Advanced On-chip Variation"
+ADE,"Analog Design Environment"
+AEL,"Analog Expression Language"
+AMS,"Analog-Mixed-Signal"
+AMSD,"AMS Designer"
+AoT,"Analog on Top"
+APS,"Accelerated Parallel Simulation"
+ATPG,"Automatic Test Pattern Generation"
+AVUM,"AMS Virtuoso Use Model"
+AXUM,"AMS Xcelium Use Model"
+API,"Application Programming Interface"
+ALU,"Arithmetic Logic Unit"
+ASIC,"Application-Specific Integrated Circuit"
+BDU,"Blackbox Design Unit"
+BEOL,"Back End of Line"
+BER,"Bit Error Rate"
+BiCMOS,"Bipolar Complementary Metal Oxide Silicon"
+BSIM,"Berkeley Short-Channel IGFET Model"
+BIST,"Built-in Self Test"
+CAD,"Computer Aided Design"
+CAN,"Cadence Academic Network"
+CAS,"Check Against Source"
+CCD,"Conformal Constraints Designer"
+CCF,"Clock Constraint File"
+CCL,"Common Command Language"
+CCS,"Composite Current Source"
+CDF,"Component Description Format"
+CDL,"Circuit Description Language"
+CDM,"Charge Device Model"
+CDBA,"Cadence Database API"
+CDS,"Cadence Design Systems"
+CIF,"Caltech Intermediate Format"
+CEL,"CDF Expression Language"
+CGIC,"Clock-gating integrated cell"
+CIW,"Command Interpreter Window"
+CMI,"Compile Module Interface"
+CML,"Channel Length Modulation"
+CMOS,"Complementary Metal Oxide Silicon"
+CMP,"Chemical Mechanical Polishing"
+CPF,"Common Power Format"
+CDB,"Cadence Database"
+CPG,"Cadence Placement Guidance"
+CMC,"Compact Modeling Counsel"
+CPH,"Configure Physical Hierarchy"
+CPPR,"Clock Path Pessimism Removal"
+CRPR,"Clock Reconvergence Pessimism Removal"
+CSA,"Carry-Save Adder"
+CSR,"Cadence Space-based Router"
+CTD,"Clock Tree Debugger"
+CTS,"Clock Tree Synthesis"
+CVD,"Common User Interface"
+DDC,"Define Device Correspondence"
+DFII,"Design Framework II"
+DFM,"Design for Manufacturability"
+DFT,"Design for Test"
+DIBL,"Drain-induced barrier lowering"
+DITS,"Drain-induced threshold shift"
+DMIM,"Double Metal Insulator Metal"
+DoT,"Digital on Top"
+DPO,"Dual Port Object"
+DPL,"Disembodied Property List"
+DDPI,"Design Data Procedural Interface"
+DPT,"Double Patterning Technology"
+DRC,"Design Rule Check"
+DRD,"Design Rule Driven"
+DRL,"Device Recognition Layer"
+DRV,"Design Rule Violation"
+DSPF,"Detaild Standard Parasitic Format"
+DUT,"Device under Test"
+ECC,"Error-Correcting Codes"
+ECF,"Early Clock Flow"
+ECO,"Engineering Change Order"
+ECSM,"Effective Current Source Model"
+EDA,"Electronic Design Automation"
+EDIF,"Electronic Design Interchange Format"
+EIP,"Edit In Place"
+EMIR,"Electromigration and IR-Drop"
+ENOB,"Effective Number of Bits"
+EOT,"Equivalent Oxide Thickness"
+ERA,"Early Rail Analysis"
+ERC,"Electrical Rule Check"
+ESD,"Electrostatic Discharge"
+ESR,"Effective Series Resistance"
+ETL,"Edge Triggered Latch"
+FET,"Field-Effect Transistor"
+FBB,"Forward Body Bias"
+FEOL,"Front End of Line"
+FF,"Flip-Flop"
+FGR,"Fluid Guard Ring"
+FN,"Fowler-Nordheim"
+FSDB,"Fast Signal Database"
+FSM,"Finite State Machine"
+GDSII,"Graphical Design Station II"
+GFS,"Generate From Source"
+GIDL,"Gate Induced Drain Leakage"
+GISL,"Gate Induced Source Leakage"
+GLD,"Graphical LVS Debugger"
+GLS,"Gate-Level Simulation"
+GSFS,"Generate Selected From Source"
+GTD,"Global Timing Debug"
+HBT,"Hetero-Junction Bipolar Transistor"
+HBM,"Human-Body Model"
+HCI,"Hot Carrier Injection"
+HDL,"Hardware Description Language"
+HED,"Hierarchy Editor"
+HMF,"Hierarchical Metal Fill Database Flow"
+HRCX,"Hierarchical Extraction"
+IBIS,"I/O Buffer Information Specification"
+ICE,"Integration Constraint Editor"
+ICT,"Interconnect Technology"
+ICRP,"IC Remote Processes"
+ITRS,"International Technology Roadmap for Semiconductors"
+IE,"Interface Element"
+IGFET,"Insulated-Gate Field-Effect Transistor"
+ILD,"Inter-Layer Dielectric"
+ILM,"Interface Logic Models"
+IOPT,"Incremental Optimization"
+IP,"Intellectual Property"
+KCL,"Kirchhoff’s Current Law"
+KVL,"Kirchhoff’s Voltage Law"
+LDD,"Lightly Doped Drain"
+LDE,"Layout-Dependent Effects"
+LDS,"Low-Discrepancy Sequence"
+LEC,"Logic Equivalence Checking"
+LEF,"Library Exchange Format"
+LHS,"Latin Hypercube Sampling"
+LOCOS,"Local Oxidation of Silicon"
+LPP,"Layer-Purpose Pair"
+LRP,"Least Resistive Path"
+LSCS,"Large-Scale Cloud Simulation"
+LSF,"Load Sharing Facility"
+LTE,"Local Truncation Error"
+LVL,"Layout Versus Layout"
+LVS,"Layout Versus Schematic"
+MBCI,"Multibit Cell Inference"
+MC,"Monte Carlo"
+MISFET,"Metal-Insulator Semiconductor FET"
+MOSFET,"Metal-Oxide Semiconductor FET"
+MDL,"Measurement Description Language"
+MEOL,"Middle End of Line"
+MIM,"Metal Insulator Metal"
+MM,"Machine Model"
+MMMC,"Multi-Mode Multi-Corner"
+MODGEN,"Module Generator"
+MPC,"Multiple Process Corner"
+MPT,"Multi-Patterning Technology"
+MPW,"Multi-Project Wafer"
+MSV,"Multiple Supply Voltage"
+MTS,"Multi-Technology Simulation"
+NLDM,"Non-linear Delay Model"
+NLP,"Netlist property"
+NQS,"Nonquasi-static"
+NRHF,"NanoRoute High Frequency Router"
+NTBI,"Negative Bias Temperature Instability"
+OA,"Open Access"
+OASIS,"Open Artwork System Interchange Standard"
+OCV,"On-Chip Variation"
+OOMR,"Out-Of-Module Reference"
+OOP,"Out-of-Context Probing"
+OPC,"Optical Proximity Correction"
+OPCG,"On-Product Clock Generation"
+OSSN,"Open Simulation System for Netlisting"
+PAE,"Process Antenna Effect"
+PBKG,"Protected Backgate"
+PDK,"Process Design Kit"
+PEX,"Parasitic Extraction"
+PIP,"Polysilicon Insulator Polysilicon"
+PLA,"Programmable Logic Array"
+PLE,"Physical Layout Estimation"
+PPA,"Performance, Power and Area"
+PR,"Place and Route"
+PBRS,"Pseudo-Random Bit Sequence"
+PD,"Phase Detector"
+PDP,"Power-Delay Product"
+PLCC,"Plastic Leadless Chip Carrier"
+PSF,"Parameter Storage Format"
+PMBIST,"Programmable Memory Built-In Self-Test"
+PTAM,"Power Test Access Mechanism"
+PVL,"Physical Verification Language"
+PVS,"Physical Verification Solution"
+PVT,"Process, Voltage and Temperature"
+QOR,"Quality of Results"
+QRC,"Quantus Extraction Solution"
+RAK,"Rapid Adoption Kit"
+RAP,"Rapid Analog Prototype"
+RNM,"Real Number Modeling"
+ROD,"Relative Object Design"
+RSPF,"Reduced Standard Parasitic Format"
+RTL,"Register Transfer Logic"
+SCBE,"Substrate current induced body effect"
+SDC,"Standard Design Constraints"
+SDF,"Standard Delay Format"
+SDL,"Schematic Driven Layout"
+SDP,"Structured Data Paths"
+SDR,"Simulation driven routing"
+SFF,"Scan Flip-Flop"
+SGE,"Sun Grid Engine"
+SHE,"Self Heating Effects"
+SI,"Signal Integrity"
+SNA,"Substrate Noise Analysis"
+SNR,"Signal to Noise Ratio"
+SOA,"Safe Operating Area"
+SOAC,"Safe Operating Area Check"
+SoC,"System on a Chip"
+SOI,"Silicon-on-Insulator"
+SPD,"Symbolic Placement of Devices"
+SPF,"Standard Parasitic Format"
+SPICE,"Simulation Program with Integrated Circuit Emphasis"
+SST2,"Stanford Sentiment Treebank V2"
+SSTA,"Statistical Static Timing Analysis"
+SSV,"Silicon Signoff and Verification"
+STA,"Static Timing Analysis"
+STI,"Shallow Trench Isolation"
+SV,"System Verilog"
+SVP,"Silicon Virtual Prototype"
+SVS,"Schematic Versus Schematic"
+TAT,"Turnaround Time"
+Tcl,"Tool Command Language"
+TDDB,"Time Dependent Dielectric Breakdown"
+TNS,"Total Negative Slack"
+TRP,"Transfer Property Control"
+TSG,"Text-to-Symbol Generator"
+UCN,"Update Components and Nets"
+ULP,"Update Layout Parameters"
+UNL,"Unified Netlister"
+UPF,"Unified Power Format"
+USP,"Update Schematic Parameters"
+VCP,"Virtuoso Custom Digital Placer"
+VDI,"Virtuoso Digital Implementation"
+VDSP,"Virtuoso Digital Signoff for Power"
+VDST,"Virtuoso Digital Signoff for Timing"
+VFP,"Virtuoso Floorplanner"
+VHDL,"Very High Speed Integrated Circuit HDL"
+ViVA,"Virtuoso Visualization and Analysis"
+VLM,"Virtuoso Layout Optimize"
+VLS,"Virtuoso Layout Suite"
+VLS GXL,"Virtuoso Layout Suite GXL"
+VLS L,"Virtuoso Layout Suite L"
+VLS XL,"Virtuoso Layout Suite XL"
+VMF,"Virtual Metal Fill"
+VSE,"Virtuoso Schematic Editor"
+VSR,"Virtuoso Space-based Router"
+WDF,"Workshare Compare Delta File"
+WDU,"Whitebox Design Unit"
+WEE,"Wire-Edge Enlargement"
+WLM,"Wire-Load Model"
+WNS,"Worst Negative Slack"
+WPE,"Well Proximity Effect"
