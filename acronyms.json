@@ -31,6 +31,8 @@
 	, "full": "Arithmetic Logic Unit" },
 	{ "acronym": "ASIC"
 	, "full": "Application-Specific Integrated Circuit" },
+	{ "acronym": "ASG"
+	, "full": "Automatic Symbol Generator" },
 	{ "acronym": "BDU"
 	, "full": "Blackbox Design Unit" },
 	{ "acronym": "BEOL"
@@ -55,8 +57,12 @@
 	, "full": "Clock Constraint File" },
 	{ "acronym": "CCL"
 	, "full": "Common Command Language" },
+	{ "acronym": "CCOpt"
+	, "full": "Clock Concurrent Optimization" },
 	{ "acronym": "CCS"
 	, "full": "Composite Current Source" },
+	{ "acronym": "CDC"
+	, "full": "Clock Domain Crossing" },
 	{ "acronym": "CDF"
 	, "full": "Component Description Format" },
 	{ "acronym": "CDL"
@@ -107,6 +113,8 @@
 	, "full": "Clock Tree Synthesis" },
 	{ "acronym": "CVD"
 	, "full": "Common User Interface" },
+	{ "acronym": "DBU"
+	, "full": "Database Units" },
 	{ "acronym": "DDC"
 	, "full": "Define Device Correspondence" },
 	{ "acronym": "DFII"
@@ -141,6 +149,8 @@
 	, "full": "Design Rule Violation" },
 	{ "acronym": "DSPF"
 	, "full": "Detaild Standard Parasitic Format" },
+	{ "acronym": "DSM"
+	, "full": "Deep-Submicron" },
 	{ "acronym": "DUT"
 	, "full": "Device under Test" },
 	{ "acronym": "ECC"
@@ -185,10 +195,18 @@
 	, "full": "Fluid Guard Ring" },
 	{ "acronym": "FN"
 	, "full": "Fowler-Nordheim" },
+	{ "acronym": "FNL"
+	, "full": "Flat Netlister" },
+	{ "acronym": "FPGA"
+	, "full": "Field-Programmable Gate Array" },
 	{ "acronym": "FSDB"
 	, "full": "Fast Signal Database" },
 	{ "acronym": "FSM"
 	, "full": "Finite State Machine" },
+	{ "acronym": "FTM"
+	, "full": "Full Timing Model" },
+	{ "acronym": "GDM"
+	, "full": "Generic Design Management" },
 	{ "acronym": "GDSII"
 	, "full": "Graphical Design Station II" },
 	{ "acronym": "GFS"
@@ -217,6 +235,8 @@
 	, "full": "Hierarchy Editor" },
 	{ "acronym": "HMF"
 	, "full": "Hierarchical Metal Fill Database Flow" },
+	{ "acronym": "HNL"
+	, "full": "Hierarchical Netlister" },
 	{ "acronym": "HRCX"
 	, "full": "Hierarchical Extraction" },
 	{ "acronym": "IBIS"
@@ -239,6 +259,8 @@
 	, "full": "Interface Logic Models" },
 	{ "acronym": "IOPT"
 	, "full": "Incremental Optimization" },
+	{ "acronym": "ISE"
+	, "full": "Interactive Simulation Environment" },
 	{ "acronym": "IP"
 	, "full": "Intellectual Property" },
 	{ "acronym": "KCL"
@@ -295,6 +317,8 @@
 	, "full": "Module Generator" },
 	{ "acronym": "MPC"
 	, "full": "Multiple Process Corner" },
+	{ "acronym": "MPP"
+	, "full": "Multipart Path" },
 	{ "acronym": "MPT"
 	, "full": "Multi-Patterning Technology" },
 	{ "acronym": "MPW"
@@ -349,14 +373,22 @@
 	, "full": "Place and Route" },
 	{ "acronym": "PBRS"
 	, "full": "Pseudo-Random Bit Sequence" },
+	{ "acronym": "PCD"
+	, "full": "PCell Designer" },
 	{ "acronym": "PD"
 	, "full": "Phase Detector" },
 	{ "acronym": "PDP"
 	, "full": "Power-Delay Product" },
+	{ "acronym": "PEEC"
+	, "full": "Partial Element Equivalent Circuit" },
 	{ "acronym": "PLCC"
 	, "full": "Plastic Leadless Chip Carrier" },
 	{ "acronym": "PSF"
 	, "full": "Parameter Storage Format" },
+	{ "acronym": "PSN"
+	, "full": "Power Supply Network" },
+	{ "acronym": "PSS"
+	, "full": "Periodic Steady State" },
 	{ "acronym": "PMBIST"
 	, "full": "Programmable Memory Built-In Self-Test" },
 	{ "acronym": "PTAM"
@@ -379,6 +411,8 @@
 	, "full": "Real Number Modeling" },
 	{ "acronym": "ROD"
 	, "full": "Relative Object Design" },
+	{ "acronym": "RSP"
+	, "full": "Related Snap Pattern" },
 	{ "acronym": "RSPF"
 	, "full": "Reduced Standard Parasitic Format" },
 	{ "acronym": "RTL"
@@ -395,6 +429,8 @@
 	, "full": "Structured Data Paths" },
 	{ "acronym": "SDR"
 	, "full": "Simulation driven routing" },
+	{ "acronym": "SE"
+	, "full": "Simulation Environment" },
 	{ "acronym": "SFF"
 	, "full": "Scan Flip-Flop" },
 	{ "acronym": "SGE"
@@ -489,6 +525,8 @@
 	, "full": "Virtuoso Schematic Editor" },
 	{ "acronym": "VSR"
 	, "full": "Virtuoso Space-based Router" },
+	{ "acronym": "VVO"
+	, "full": "Virtuoso Variation Option" },
 	{ "acronym": "WDF"
 	, "full": "Workshare Compare Delta File" },
 	{ "acronym": "WDU"

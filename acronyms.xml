@@ -64,6 +64,10 @@
 		<full>Application-Specific Integrated Circuit</full>
 	</ac>
 	<ac>
+		<acronym>ASG</acronym>
+		<full>Automatic Symbol Generator</full>
+	</ac>
+	<ac>
 		<acronym>BDU</acronym>
 		<full>Blackbox Design Unit</full>
 	</ac>
@@ -112,8 +116,16 @@
 		<full>Common Command Language</full>
 	</ac>
 	<ac>
+		<acronym>CCOpt</acronym>
+		<full>Clock Concurrent Optimization</full>
+	</ac>
+	<ac>
 		<acronym>CCS</acronym>
 		<full>Composite Current Source</full>
+	</ac>
+	<ac>
+		<acronym>CDC</acronym>
+		<full>Clock Domain Crossing</full>
 	</ac>
 	<ac>
 		<acronym>CDF</acronym>
@@ -216,6 +228,10 @@
 		<full>Common User Interface</full>
 	</ac>
 	<ac>
+		<acronym>DBU</acronym>
+		<full>Database Units</full>
+	</ac>
+	<ac>
 		<acronym>DDC</acronym>
 		<full>Define Device Correspondence</full>
 	</ac>
@@ -282,6 +298,10 @@
 	<ac>
 		<acronym>DSPF</acronym>
 		<full>Detaild Standard Parasitic Format</full>
+	</ac>
+	<ac>
+		<acronym>DSM</acronym>
+		<full>Deep-Submicron</full>
 	</ac>
 	<ac>
 		<acronym>DUT</acronym>
@@ -372,12 +392,28 @@
 		<full>Fowler-Nordheim</full>
 	</ac>
 	<ac>
+		<acronym>FNL</acronym>
+		<full>Flat Netlister</full>
+	</ac>
+	<ac>
+		<acronym>FPGA</acronym>
+		<full>Field-Programmable Gate Array</full>
+	</ac>
+	<ac>
 		<acronym>FSDB</acronym>
 		<full>Fast Signal Database</full>
 	</ac>
 	<ac>
 		<acronym>FSM</acronym>
 		<full>Finite State Machine</full>
+	</ac>
+	<ac>
+		<acronym>FTM</acronym>
+		<full>Full Timing Model</full>
+	</ac>
+	<ac>
+		<acronym>GDM</acronym>
+		<full>Generic Design Management</full>
 	</ac>
 	<ac>
 		<acronym>GDSII</acronym>
@@ -436,6 +472,10 @@
 		<full>Hierarchical Metal Fill Database Flow</full>
 	</ac>
 	<ac>
+		<acronym>HNL</acronym>
+		<full>Hierarchical Netlister</full>
+	</ac>
+	<ac>
 		<acronym>HRCX</acronym>
 		<full>Hierarchical Extraction</full>
 	</ac>
@@ -478,6 +518,10 @@
 	<ac>
 		<acronym>IOPT</acronym>
 		<full>Incremental Optimization</full>
+	</ac>
+	<ac>
+		<acronym>ISE</acronym>
+		<full>Interactive Simulation Environment</full>
 	</ac>
 	<ac>
 		<acronym>IP</acronym>
@@ -592,6 +636,10 @@
 		<full>Multiple Process Corner</full>
 	</ac>
 	<ac>
+		<acronym>MPP</acronym>
+		<full>Multipart Path</full>
+	</ac>
+	<ac>
 		<acronym>MPT</acronym>
 		<full>Multi-Patterning Technology</full>
 	</ac>
@@ -700,6 +748,10 @@
 		<full>Pseudo-Random Bit Sequence</full>
 	</ac>
 	<ac>
+		<acronym>PCD</acronym>
+		<full>PCell Designer</full>
+	</ac>
+	<ac>
 		<acronym>PD</acronym>
 		<full>Phase Detector</full>
 	</ac>
@@ -708,12 +760,24 @@
 		<full>Power-Delay Product</full>
 	</ac>
 	<ac>
+		<acronym>PEEC</acronym>
+		<full>Partial Element Equivalent Circuit</full>
+	</ac>
+	<ac>
 		<acronym>PLCC</acronym>
 		<full>Plastic Leadless Chip Carrier</full>
 	</ac>
 	<ac>
 		<acronym>PSF</acronym>
 		<full>Parameter Storage Format</full>
+	</ac>
+	<ac>
+		<acronym>PSN</acronym>
+		<full>Power Supply Network</full>
+	</ac>
+	<ac>
+		<acronym>PSS</acronym>
+		<full>Periodic Steady State</full>
 	</ac>
 	<ac>
 		<acronym>PMBIST</acronym>
@@ -760,6 +824,10 @@
 		<full>Relative Object Design</full>
 	</ac>
 	<ac>
+		<acronym>RSP</acronym>
+		<full>Related Snap Pattern</full>
+	</ac>
+	<ac>
 		<acronym>RSPF</acronym>
 		<full>Reduced Standard Parasitic Format</full>
 	</ac>
@@ -790,6 +858,10 @@
 	<ac>
 		<acronym>SDR</acronym>
 		<full>Simulation driven routing</full>
+	</ac>
+	<ac>
+		<acronym>SE</acronym>
+		<full>Simulation Environment</full>
 	</ac>
 	<ac>
 		<acronym>SFF</acronym>
@@ -978,6 +1050,10 @@
 	<ac>
 		<acronym>VSR</acronym>
 		<full>Virtuoso Space-based Router</full>
+	</ac>
+	<ac>
+		<acronym>VVO</acronym>
+		<full>Virtuoso Variation Option</full>
 	</ac>
 	<ac>
 		<acronym>WDF</acronym>
