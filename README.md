@@ -211,6 +211,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Related Snap Pattern (RSP)
 - Reduced Standard Parasitic Format (RSPF)
 - Register Transfer Logic (RTL)
+- Rule of Thumb (ROT)
 - Substrate current induced body effect (SCBE)
 - Standard Design Constraints (SDC)
 - Standard Delay Format (SDF)

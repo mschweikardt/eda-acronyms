@@ -417,6 +417,8 @@
 	, "full": "Reduced Standard Parasitic Format" },
 	{ "acronym": "RTL"
 	, "full": "Register Transfer Logic" },
+	{ "acronym": "ROT"
+	, "full": "Rule of Thumb" },
 	{ "acronym": "SCBE"
 	, "full": "Substrate current induced body effect" },
 	{ "acronym": "SDC"
