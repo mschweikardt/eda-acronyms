@@ -16,10 +16,12 @@ my $yaml     = "./acronyms.yaml";
 my $json     = "./acronyms.json";
 my $xml      = "./acronyms.xml";
 my $skill    = "./acronyms.il";
-my $svg      = "./acronyms.svg";
+my $svgl     = "./letters.svg";
+my $svgw     = "./words.svg";
 #my $png      = "./acronyms.png";
 
-my $graph    = GraphViz->new();
+my $l_graph  = GraphViz->new();
+my $w_graph  = GraphViz->new();
 
 open(README, $readme)          or die "Cannot open $readme: $!";
 open(ACRONYMS, '>', $acronyms) or die "Cannot open $acronyms $!";
@@ -29,7 +31,8 @@ open(YAML, '>', $yaml)         or die "Cannot open $yaml $!";
 open(JSON, '>', $json)         or die "Cannot open $json $!";
 open(XML, '>', $xml)           or die "Cannot open $xml $!";
 open(SKILL, '>', $skill)       or die "Cannot open $skill $!";
-open(SVG, '>', $svg)           or die "Cannot open $svg $!";
+open(SVGL, '>', $svgl)         or die "Cannot open $svgl $!";
+open(SVGW, '>', $svgw)         or die "Cannot open $svgw $!";
 
 print ACRONYMS "\\usepackage{acronym}\n\n";
 print GLOSSARY "\\usepackage[]{glossaries}\n\\makeglossaries\n\\include{glossaryentries}\n\n";
@@ -59,18 +62,31 @@ while ($line=<README>)
         my $chr;
         my $itr;
         foreach $chr (split //, $acr) {
-            $graph->add_node(uc $chr);
+            $l_graph->add_node(uc $chr);
         }
         for $itr (0 .. length($acr)-2) {
             my $fst = substr($acr, $itr, 1);
             my $snd = substr($acr, ($itr + 1), 1);
-            $graph->add_edge($fst => $snd);
+            $l_graph->add_edge($fst => $snd);
+        }
+
+        my $wrd;
+        (my $fll = $full) =~ s/[^a-zA-Z0-9]//g;
+        my @words = split(/ /, $fll);
+        foreach $wrd (@words) {
+            $w_graph->add_node(uc $wrd);
+        }
+        for $itr (0 .. scalar(@words)-2) {
+            my $fst = $words[$itr];
+            my $snd = $words[$itr + 1];
+            $w_graph->add_edge($fst => $snd);
         }
     }
 }
 
-#$graph->as_png($png);
-print SVG $graph->as_svg;
+#$l_graph->as_png($png);
+print SVGL $l_graph->as_svg;
+print SVGW $w_graph->as_svg;
 
 print JSON "\n\t]\n}";
 print XML "</acronyms>";
