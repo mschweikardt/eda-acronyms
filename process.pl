@@ -18,12 +18,14 @@ my $xml      = "./acronyms.xml";
 my $skill    = "./acronyms.il";
 my $svgl     = "./letters.svg";
 my $svgw     = "./words.svg";
-#my $png      = "./acronyms.png";
+my $png      = "./acronyms.png";
+my $dotl     = "./letters.dot";
+my $dotw     = "./words.dot";
 
 my $l_graph  = GraphViz->new();
 my $w_graph  = GraphViz->new();
 
-open(README, $readme)          or die "Cannot open $readme: $!";
+open(README, $readme)          or die "Cannot open $readme $!";
 open(ACRONYMS, '>', $acronyms) or die "Cannot open $acronyms $!";
 open(GLOSSARY, '>', $glossary) or die "Cannot open $glossary $!";
 open(CSV, '>', $csv)           or die "Cannot open $csv $!";
@@ -33,6 +35,8 @@ open(XML, '>', $xml)           or die "Cannot open $xml $!";
 open(SKILL, '>', $skill)       or die "Cannot open $skill $!";
 open(SVGL, '>', $svgl)         or die "Cannot open $svgl $!";
 open(SVGW, '>', $svgw)         or die "Cannot open $svgw $!";
+open(DOTL, '>', $dotl)         or die "Cannot open $dotl $!";
+open(DOTW, '>', $dotw)         or die "Cannot open $dotw $!";
 
 print ACRONYMS "\\usepackage{acronym}\n\n";
 print GLOSSARY "\\usepackage[]{glossaries}\n\\makeglossaries\n\\include{glossaryentries}\n\n";
@@ -61,32 +65,43 @@ while ($line=<README>)
 
         my $chr;
         my $itr;
-        foreach $chr (split //, $acr) {
+        foreach $chr (split //, $acr) 
+        {
             $l_graph->add_node(uc $chr);
         }
-        for $itr (0 .. length($acr)-2) {
+        for $itr (0 .. length($acr)-2) 
+        {
             my $fst = substr($acr, $itr, 1);
             my $snd = substr($acr, ($itr + 1), 1);
             $l_graph->add_edge($fst => $snd);
         }
 
         my $wrd;
-        (my $fll = $full) =~ s/[^a-zA-Z0-9]//g;
-        my @words = split(/ /, $fll);
-        foreach $wrd (@words) {
-            $w_graph->add_node(uc $wrd);
+        $full =~ s/[^a-zA-Z0-9]/ /g;
+        my @words = split(/\s+/, $full);
+        my %seen;
+        my @uniq = grep { !$seen{$_}++ } @words;
+        foreach $wrd (@uniq) 
+        {
+            $wrd = "EGDE" if lc($wrd) eq "edge";
+            $w_graph->add_node(uc $wrd, label => $wrd);
         }
-        for $itr (0 .. scalar(@words)-2) {
-            my $fst = $words[$itr];
-            my $snd = $words[$itr + 1];
+        for $itr (0 .. scalar(@words)-2) 
+        {
+            my $fst = uc ($words[$itr]);
+            my $snd = uc ($words[$itr + 1]);
+            if (lc($fst) eq "edge") { $fst = "EGDE"; }
+            if (lc($snd) eq "edge") { $snd = "EGDE"; }
             $w_graph->add_edge($fst => $snd);
         }
     }
 }
 
-#$l_graph->as_png($png);
+#$w_graph->as_png($png);
 print SVGL $l_graph->as_svg;
 print SVGW $w_graph->as_svg;
+print DOTL $l_graph->as_debug;
+print DOTW $w_graph->as_debug;
 
 print JSON "\n\t]\n}";
 print XML "</acronyms>";
