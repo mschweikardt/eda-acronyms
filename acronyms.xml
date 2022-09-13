@@ -48,6 +48,10 @@
 		<full>AMS Virtuoso Use Model</full>
 	</ac>
 	<ac>
+		<acronym>AWR</acronym>
+		<full>Applied Wave Research</full>
+	</ac>
+	<ac>
 		<acronym>AXUM</acronym>
 		<full>AMS Xcelium Use Model</full>
 	</ac>
@@ -656,24 +660,28 @@
 		<full>Multi-Technology Simulation</full>
 	</ac>
 	<ac>
-		<acronym>NLDM</acronym>
-		<full>Non-linear Delay Model</full>
+		<acronym>NRHF</acronym>
+		<full>NanoRoute High Frequency Router</full>
+	</ac>
+	<ac>
+		<acronym>NI</acronym>
+		<full>National Instruments</full>
+	</ac>
+	<ac>
+		<acronym>NTBI</acronym>
+		<full>Negative Bias Temperature Instability</full>
 	</ac>
 	<ac>
 		<acronym>NLP</acronym>
 		<full>Netlist property</full>
 	</ac>
 	<ac>
+		<acronym>NLDM</acronym>
+		<full>Non-linear Delay Model</full>
+	</ac>
+	<ac>
 		<acronym>NQS</acronym>
 		<full>Nonquasi-static</full>
-	</ac>
-	<ac>
-		<acronym>NRHF</acronym>
-		<full>NanoRoute High Frequency Router</full>
-	</ac>
-	<ac>
-		<acronym>NTBI</acronym>
-		<full>Negative Bias Temperature Instability</full>
 	</ac>
 	<ac>
 		<acronym>OA</acronym>

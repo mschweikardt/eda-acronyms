@@ -23,6 +23,8 @@
 	, "full": "Automatic Test Pattern Generation" },
 	{ "acronym": "AVUM"
 	, "full": "AMS Virtuoso Use Model" },
+	{ "acronym": "AWR"
+	, "full": "Applied Wave Research" },
 	{ "acronym": "AXUM"
 	, "full": "AMS Xcelium Use Model" },
 	{ "acronym": "API"
@@ -327,16 +329,18 @@
 	, "full": "Multiple Supply Voltage" },
 	{ "acronym": "MTS"
 	, "full": "Multi-Technology Simulation" },
-	{ "acronym": "NLDM"
-	, "full": "Non-linear Delay Model" },
-	{ "acronym": "NLP"
-	, "full": "Netlist property" },
-	{ "acronym": "NQS"
-	, "full": "Nonquasi-static" },
 	{ "acronym": "NRHF"
 	, "full": "NanoRoute High Frequency Router" },
+	{ "acronym": "NI"
+	, "full": "National Instruments" },
 	{ "acronym": "NTBI"
 	, "full": "Negative Bias Temperature Instability" },
+	{ "acronym": "NLP"
+	, "full": "Netlist property" },
+	{ "acronym": "NLDM"
+	, "full": "Non-linear Delay Model" },
+	{ "acronym": "NQS"
+	, "full": "Nonquasi-static" },
 	{ "acronym": "OA"
 	, "full": "Open Access" },
 	{ "acronym": "OASIS"

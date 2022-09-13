@@ -16,6 +16,7 @@ digraph test {
 	o [label="o"];
 	G [label="G"];
 	U [label="U"];
+	W [label="W"];
 	X [label="X"];
 	I [label="I"];
 	i [label="i"];
@@ -23,7 +24,6 @@ digraph test {
 	F [label="F"];
 	p [label="p"];
 	t [label="t"];
-	W [label="W"];
 	H [label="H"];
 	K [label="K"];
 	Q [label="Q"];
@@ -60,6 +60,7 @@ digraph test {
 	A -> T;
 	A -> T;
 	A -> V;
+	A -> W;
 	A -> X;
 	A -> o;
 	B -> A;
@@ -388,6 +389,7 @@ digraph test {
 	M -> S;
 	M -> T;
 	N -> A;
+	N -> I;
 	N -> L;
 	N -> L;
 	N -> L;
@@ -647,6 +649,7 @@ digraph test {
 	W -> L;
 	W -> N;
 	W -> P;
+	W -> R;
 	X -> L;
 	X -> L;
 	X -> U;
