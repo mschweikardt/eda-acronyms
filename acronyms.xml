@@ -24,6 +24,10 @@
 		<full>Analog Expression Language</full>
 	</ac>
 	<ac>
+		<acronym>AICM</acronym>
+		<full>Automatically-inserted Connect Module</full>
+	</ac>
+	<ac>
 		<acronym>AMS</acronym>
 		<full>Analog-Mixed-Signal</full>
 	</ac>
@@ -70,6 +74,10 @@
 	<ac>
 		<acronym>ASG</acronym>
 		<full>Automatic Symbol Generator</full>
+	</ac>
+	<ac>
+		<acronym>BDR</acronym>
+		<full>Block-based Discipline Resolution</full>
 	</ac>
 	<ac>
 		<acronym>BDU</acronym>
@@ -208,6 +216,14 @@
 		<full>Clock Path Pessimism Removal</full>
 	</ac>
 	<ac>
+		<acronym>CM</acronym>
+		<full>Connect Modules</full>
+	</ac>
+	<ac>
+		<acronym>CR</acronym>
+		<full>Connect Rules</full>
+	</ac>
+	<ac>
 		<acronym>CRPR</acronym>
 		<full>Clock Reconvergence Pessimism Removal</full>
 	</ac>
@@ -284,6 +300,10 @@
 		<full>Double Patterning Technology</full>
 	</ac>
 	<ac>
+		<acronym>DR</acronym>
+		<full>Discipline Resolution</full>
+	</ac>
+	<ac>
 		<acronym>DRC</acronym>
 		<full>Design Rule Check</full>
 	</ac>
@@ -312,6 +332,10 @@
 		<full>Device under Test</full>
 	</ac>
 	<ac>
+		<acronym>DVS</acronym>
+		<full>Dynamic Voltage Supply</full>
+	</ac>
+	<ac>
 		<acronym>ECC</acronym>
 		<full>Error-Correcting Codes</full>
 	</ac>
@@ -334,6 +358,10 @@
 	<ac>
 		<acronym>EDIF</acronym>
 		<full>Electronic Design Interchange Format</full>
+	</ac>
+	<ac>
+		<acronym>EM</acronym>
+		<full>Electromigration</full>
 	</ac>
 	<ac>
 		<acronym>EIP</acronym>
@@ -480,6 +508,10 @@
 		<full>Hierarchical Netlister</full>
 	</ac>
 	<ac>
+		<acronym>HPB</acronym>
+		<full>High Performance Blocking</full>
+	</ac>
+	<ac>
 		<acronym>HRCX</acronym>
 		<full>Hierarchical Extraction</full>
 	</ac>
@@ -518,6 +550,10 @@
 	<ac>
 		<acronym>ILM</acronym>
 		<full>Interface Logic Models</full>
+	</ac>
+	<ac>
+		<acronym>IPC</acronym>
+		<full>Interprocess Communication</full>
 	</ac>
 	<ac>
 		<acronym>IOPT</acronym>
@@ -756,6 +792,10 @@
 		<full>Pseudo-Random Bit Sequence</full>
 	</ac>
 	<ac>
+		<acronym>PBSR</acronym>
+		<full>Process-Based Save/Restart</full>
+	</ac>
+	<ac>
 		<acronym>PCD</acronym>
 		<full>PCell Designer</full>
 	</ac>
@@ -928,6 +968,10 @@
 		<full>Simulation Program with Integrated Circuit Emphasis</full>
 	</ac>
 	<ac>
+		<acronym>SSS</acronym>
+		<full>Simulation Snapshot</full>
+	</ac>
+	<ac>
 		<acronym>SST2</acronym>
 		<full>Stanford Sentiment Treebank V2</full>
 	</ac>
@@ -976,12 +1020,24 @@
 		<full>Total Negative Slack</full>
 	</ac>
 	<ac>
+		<acronym>TPA</acronym>
+		<full>Track Pattern Assistant</full>
+	</ac>
+	<ac>
 		<acronym>TRP</acronym>
 		<full>Transfer Property Control</full>
 	</ac>
 	<ac>
 		<acronym>TSG</acronym>
 		<full>Text-to-Symbol Generator</full>
+	</ac>
+	<ac>
+		<acronym>TSV</acronym>
+		<full>Through-Silicon Via</full>
+	</ac>
+	<ac>
+		<acronym>UCM</acronym>
+		<full>Universal Connect Modules</full>
 	</ac>
 	<ac>
 		<acronym>UCN</acronym>
@@ -1002,6 +1058,10 @@
 	<ac>
 		<acronym>USP</acronym>
 		<full>Update Schematic Parameters</full>
+	</ac>
+	<ac>
+		<acronym>VCD</acronym>
+		<full>Value Change Dump</full>
 	</ac>
 	<ac>
 		<acronym>VCP</acronym>
@@ -1090,5 +1150,9 @@
 	<ac>
 		<acronym>WPE</acronym>
 		<full>Well Proximity Effect</full>
+	</ac>
+	<ac>
+		<acronym>WSP</acronym>
+		<full>Width Spacing Pattern</full>
 	</ac>
 </acronyms>

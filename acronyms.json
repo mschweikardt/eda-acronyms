@@ -11,6 +11,8 @@
 	, "full": "Analog Design Environment" },
 	{ "acronym": "AEL"
 	, "full": "Analog Expression Language" },
+	{ "acronym": "AICM"
+	, "full": "Automatically-inserted Connect Module" },
 	{ "acronym": "AMS"
 	, "full": "Analog-Mixed-Signal" },
 	{ "acronym": "AMSD"
@@ -35,6 +37,8 @@
 	, "full": "Application-Specific Integrated Circuit" },
 	{ "acronym": "ASG"
 	, "full": "Automatic Symbol Generator" },
+	{ "acronym": "BDR"
+	, "full": "Block-based Discipline Resolution" },
 	{ "acronym": "BDU"
 	, "full": "Blackbox Design Unit" },
 	{ "acronym": "BEOL"
@@ -103,6 +107,10 @@
 	, "full": "Configure Physical Hierarchy" },
 	{ "acronym": "CPPR"
 	, "full": "Clock Path Pessimism Removal" },
+	{ "acronym": "CM"
+	, "full": "Connect Modules" },
+	{ "acronym": "CR"
+	, "full": "Connect Rules" },
 	{ "acronym": "CRPR"
 	, "full": "Clock Reconvergence Pessimism Removal" },
 	{ "acronym": "CSA"
@@ -141,6 +149,8 @@
 	, "full": "Design Data Procedural Interface" },
 	{ "acronym": "DPT"
 	, "full": "Double Patterning Technology" },
+	{ "acronym": "DR"
+	, "full": "Discipline Resolution" },
 	{ "acronym": "DRC"
 	, "full": "Design Rule Check" },
 	{ "acronym": "DRD"
@@ -155,6 +165,8 @@
 	, "full": "Deep-Submicron" },
 	{ "acronym": "DUT"
 	, "full": "Device under Test" },
+	{ "acronym": "DVS"
+	, "full": "Dynamic Voltage Supply" },
 	{ "acronym": "ECC"
 	, "full": "Error-Correcting Codes" },
 	{ "acronym": "ECF"
@@ -167,6 +179,8 @@
 	, "full": "Electronic Design Automation" },
 	{ "acronym": "EDIF"
 	, "full": "Electronic Design Interchange Format" },
+	{ "acronym": "EM"
+	, "full": "Electromigration" },
 	{ "acronym": "EIP"
 	, "full": "Edit In Place" },
 	{ "acronym": "EMIR"
@@ -239,6 +253,8 @@
 	, "full": "Hierarchical Metal Fill Database Flow" },
 	{ "acronym": "HNL"
 	, "full": "Hierarchical Netlister" },
+	{ "acronym": "HPB"
+	, "full": "High Performance Blocking" },
 	{ "acronym": "HRCX"
 	, "full": "Hierarchical Extraction" },
 	{ "acronym": "IBIS"
@@ -259,6 +275,8 @@
 	, "full": "Inter-Layer Dielectric" },
 	{ "acronym": "ILM"
 	, "full": "Interface Logic Models" },
+	{ "acronym": "IPC"
+	, "full": "Interprocess Communication" },
 	{ "acronym": "IOPT"
 	, "full": "Incremental Optimization" },
 	{ "acronym": "ISE"
@@ -377,6 +395,8 @@
 	, "full": "Place and Route" },
 	{ "acronym": "PBRS"
 	, "full": "Pseudo-Random Bit Sequence" },
+	{ "acronym": "PBSR"
+	, "full": "Process-Based Save/Restart" },
 	{ "acronym": "PCD"
 	, "full": "PCell Designer" },
 	{ "acronym": "PD"
@@ -463,6 +483,8 @@
 	, "full": "Standard Parasitic Format" },
 	{ "acronym": "SPICE"
 	, "full": "Simulation Program with Integrated Circuit Emphasis" },
+	{ "acronym": "SSS"
+	, "full": "Simulation Snapshot" },
 	{ "acronym": "SST2"
 	, "full": "Stanford Sentiment Treebank V2" },
 	{ "acronym": "SSTA"
@@ -487,10 +509,16 @@
 	, "full": "Time Dependent Dielectric Breakdown" },
 	{ "acronym": "TNS"
 	, "full": "Total Negative Slack" },
+	{ "acronym": "TPA"
+	, "full": "Track Pattern Assistant" },
 	{ "acronym": "TRP"
 	, "full": "Transfer Property Control" },
 	{ "acronym": "TSG"
 	, "full": "Text-to-Symbol Generator" },
+	{ "acronym": "TSV"
+	, "full": "Through-Silicon Via" },
+	{ "acronym": "UCM"
+	, "full": "Universal Connect Modules" },
 	{ "acronym": "UCN"
 	, "full": "Update Components and Nets" },
 	{ "acronym": "ULP"
@@ -501,6 +529,8 @@
 	, "full": "Unified Power Format" },
 	{ "acronym": "USP"
 	, "full": "Update Schematic Parameters" },
+	{ "acronym": "VCD"
+	, "full": "Value Change Dump" },
 	{ "acronym": "VCP"
 	, "full": "Virtuoso Custom Digital Placer" },
 	{ "acronym": "VDI"
@@ -544,6 +574,8 @@
 	{ "acronym": "WNS"
 	, "full": "Worst Negative Slack" },
 	{ "acronym": "WPE"
-	, "full": "Well Proximity Effect" }
+	, "full": "Well Proximity Effect" },
+	{ "acronym": "WSP"
+	, "full": "Width Spacing Pattern" }
 	]
 }
