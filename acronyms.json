@@ -37,6 +37,8 @@
 	, "full": "Application-Specific Integrated Circuit" },
 	{ "acronym": "ASG"
 	, "full": "Automatic Symbol Generator" },
+	{ "acronym": "BCWC"
+	, "full": "Best-Case/Worst-Case" },
 	{ "acronym": "BDR"
 	, "full": "Block-based Discipline Resolution" },
 	{ "acronym": "BDU"
@@ -57,6 +59,8 @@
 	, "full": "Cadence Academic Network" },
 	{ "acronym": "CAS"
 	, "full": "Check Against Source" },
+	{ "acronym": "CCC"
+	, "full": "Channel Connected Component" },
 	{ "acronym": "CCD"
 	, "full": "Conformal Constraints Designer" },
 	{ "acronym": "CCF"
@@ -89,8 +93,10 @@
 	, "full": "Command Interpreter Window" },
 	{ "acronym": "CMI"
 	, "full": "Compile Module Interface" },
-	{ "acronym": "CML"
-	, "full": "Channel Length Modulation" },
+	{ "acronym": "CMMMC"
+	, "full": "Concurrent Multi-Mode Multi Corner" },
+	{ "acronym": "CMI"
+	, "full": "Compile Module Interface" },
 	{ "acronym": "CMOS"
 	, "full": "Complementary Metal Oxide Silicon" },
 	{ "acronym": "CMP"
@@ -137,6 +143,8 @@
 	, "full": "Drain-induced barrier lowering" },
 	{ "acronym": "DITS"
 	, "full": "Drain-induced threshold shift" },
+	{ "acronym": "DMMMC"
+	, "full": "Distributed Multi-Mode Multi Corner" },
 	{ "acronym": "DMIM"
 	, "full": "Double Metal Insulator Metal" },
 	{ "acronym": "DoT"
@@ -159,10 +167,12 @@
 	, "full": "Device Recognition Layer" },
 	{ "acronym": "DRV"
 	, "full": "Design Rule Violation" },
-	{ "acronym": "DSPF"
+	{ "acronym": "DSTA"
 	, "full": "Detaild Standard Parasitic Format" },
 	{ "acronym": "DSM"
 	, "full": "Deep-Submicron" },
+	{ "acronym": "DSM"
+	, "full": "Distributed Static Timing Analysis" },
 	{ "acronym": "DUT"
 	, "full": "Device under Test" },
 	{ "acronym": "DVS"
@@ -183,6 +193,8 @@
 	, "full": "Electromigration" },
 	{ "acronym": "EIP"
 	, "full": "Edit In Place" },
+	{ "acronym": "EIV"
+	, "full": "Effective Instance Voltage" },
 	{ "acronym": "EMIR"
 	, "full": "Electromigration and IR-Drop" },
 	{ "acronym": "ENOB"
@@ -199,6 +211,8 @@
 	, "full": "Effective Series Resistance" },
 	{ "acronym": "ETL"
 	, "full": "Edge Triggered Latch" },
+	{ "acronym": "ETM"
+	, "full": "Extracted Timing Model" },
 	{ "acronym": "FET"
 	, "full": "Field-Effect Transistor" },
 	{ "acronym": "FBB"
@@ -221,6 +235,8 @@
 	, "full": "Finite State Machine" },
 	{ "acronym": "FTM"
 	, "full": "Full Timing Model" },
+	{ "acronym": "GBA"
+	, "full": "Graph-Based Analysis" },
 	{ "acronym": "GDM"
 	, "full": "Generic Design Management" },
 	{ "acronym": "GDSII"
@@ -311,6 +327,8 @@
 	, "full": "Load Sharing Facility" },
 	{ "acronym": "LTE"
 	, "full": "Local Truncation Error" },
+	{ "acronym": "LVF"
+	, "full": "Liberty Variation Format" },
 	{ "acronym": "LVL"
 	, "full": "Layout Versus Layout" },
 	{ "acronym": "LVS"
@@ -319,6 +337,8 @@
 	, "full": "Multibit Cell Inference" },
 	{ "acronym": "MC"
 	, "full": "Monte Carlo" },
+	{ "acronym": "MCP"
+	, "full": "Multicycle Path" },
 	{ "acronym": "MISFET"
 	, "full": "Metal-Insulator Semiconductor FET" },
 	{ "acronym": "MOSFET"
@@ -359,6 +379,8 @@
 	, "full": "Non-linear Delay Model" },
 	{ "acronym": "NQS"
 	, "full": "Nonquasi-static" },
+	{ "acronym": "NT"
+	, "full": "Near-Threshold" },
 	{ "acronym": "OA"
 	, "full": "Open Access" },
 	{ "acronym": "OASIS"
@@ -393,6 +415,8 @@
 	, "full": "Performance, Power and Area" },
 	{ "acronym": "PR"
 	, "full": "Place and Route" },
+	{ "acronym": "PBA"
+	, "full": "Path-Based Analysis" },
 	{ "acronym": "PBRS"
 	, "full": "Pseudo-Random Bit Sequence" },
 	{ "acronym": "PBSR"
@@ -431,10 +455,14 @@
 	, "full": "Rapid Adoption Kit" },
 	{ "acronym": "RAP"
 	, "full": "Rapid Analog Prototype" },
+	{ "acronym": "RIP"
+	, "full": "Receiver Input Peak Check" },
 	{ "acronym": "RNM"
 	, "full": "Real Number Modeling" },
 	{ "acronym": "ROD"
 	, "full": "Relative Object Design" },
+	{ "acronym": "ROP"
+	, "full": "Receiver Output Peak Check" },
 	{ "acronym": "RSP"
 	, "full": "Related Snap Pattern" },
 	{ "acronym": "RSPF"
@@ -465,6 +493,8 @@
 	, "full": "Self Heating Effects" },
 	{ "acronym": "SI"
 	, "full": "Signal Integrity" },
+	{ "acronym": "SMSC"
+	, "full": "Single Mode Single Corner" },
 	{ "acronym": "SNA"
 	, "full": "Substrate Noise Analysis" },
 	{ "acronym": "SNR"
@@ -475,6 +505,8 @@
 	, "full": "Safe Operating Area Check" },
 	{ "acronym": "SoC"
 	, "full": "System on a Chip" },
+	{ "acronym": "SOCV"
+	, "full": "Statistical On-chip Variation" },
 	{ "acronym": "SOI"
 	, "full": "Silicon-on-Insulator" },
 	{ "acronym": "SPD"
@@ -517,6 +549,8 @@
 	, "full": "Text-to-Symbol Generator" },
 	{ "acronym": "TSV"
 	, "full": "Through-Silicon Via" },
+	{ "acronym": "TW"
+	, "full": "Timing Window" },
 	{ "acronym": "UCM"
 	, "full": "Universal Connect Modules" },
 	{ "acronym": "UCN"

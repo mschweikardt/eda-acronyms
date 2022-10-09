@@ -76,6 +76,10 @@
 		<full>Automatic Symbol Generator</full>
 	</ac>
 	<ac>
+		<acronym>BCWC</acronym>
+		<full>Best-Case/Worst-Case</full>
+	</ac>
+	<ac>
 		<acronym>BDR</acronym>
 		<full>Block-based Discipline Resolution</full>
 	</ac>
@@ -114,6 +118,10 @@
 	<ac>
 		<acronym>CAS</acronym>
 		<full>Check Against Source</full>
+	</ac>
+	<ac>
+		<acronym>CCC</acronym>
+		<full>Channel Connected Component</full>
 	</ac>
 	<ac>
 		<acronym>CCD</acronym>
@@ -180,8 +188,12 @@
 		<full>Compile Module Interface</full>
 	</ac>
 	<ac>
-		<acronym>CML</acronym>
-		<full>Channel Length Modulation</full>
+		<acronym>CMMMC</acronym>
+		<full>Concurrent Multi-Mode Multi Corner</full>
+	</ac>
+	<ac>
+		<acronym>CMI</acronym>
+		<full>Compile Module Interface</full>
 	</ac>
 	<ac>
 		<acronym>CMOS</acronym>
@@ -276,6 +288,10 @@
 		<full>Drain-induced threshold shift</full>
 	</ac>
 	<ac>
+		<acronym>DMMMC</acronym>
+		<full>Distributed Multi-Mode Multi Corner</full>
+	</ac>
+	<ac>
 		<acronym>DMIM</acronym>
 		<full>Double Metal Insulator Metal</full>
 	</ac>
@@ -320,12 +336,16 @@
 		<full>Design Rule Violation</full>
 	</ac>
 	<ac>
-		<acronym>DSPF</acronym>
+		<acronym>DSTA</acronym>
 		<full>Detaild Standard Parasitic Format</full>
 	</ac>
 	<ac>
 		<acronym>DSM</acronym>
 		<full>Deep-Submicron</full>
+	</ac>
+	<ac>
+		<acronym>DSM</acronym>
+		<full>Distributed Static Timing Analysis</full>
 	</ac>
 	<ac>
 		<acronym>DUT</acronym>
@@ -368,6 +388,10 @@
 		<full>Edit In Place</full>
 	</ac>
 	<ac>
+		<acronym>EIV</acronym>
+		<full>Effective Instance Voltage</full>
+	</ac>
+	<ac>
 		<acronym>EMIR</acronym>
 		<full>Electromigration and IR-Drop</full>
 	</ac>
@@ -398,6 +422,10 @@
 	<ac>
 		<acronym>ETL</acronym>
 		<full>Edge Triggered Latch</full>
+	</ac>
+	<ac>
+		<acronym>ETM</acronym>
+		<full>Extracted Timing Model</full>
 	</ac>
 	<ac>
 		<acronym>FET</acronym>
@@ -442,6 +470,10 @@
 	<ac>
 		<acronym>FTM</acronym>
 		<full>Full Timing Model</full>
+	</ac>
+	<ac>
+		<acronym>GBA</acronym>
+		<full>Graph-Based Analysis</full>
 	</ac>
 	<ac>
 		<acronym>GDM</acronym>
@@ -624,6 +656,10 @@
 		<full>Local Truncation Error</full>
 	</ac>
 	<ac>
+		<acronym>LVF</acronym>
+		<full>Liberty Variation Format</full>
+	</ac>
+	<ac>
 		<acronym>LVL</acronym>
 		<full>Layout Versus Layout</full>
 	</ac>
@@ -638,6 +674,10 @@
 	<ac>
 		<acronym>MC</acronym>
 		<full>Monte Carlo</full>
+	</ac>
+	<ac>
+		<acronym>MCP</acronym>
+		<full>Multicycle Path</full>
 	</ac>
 	<ac>
 		<acronym>MISFET</acronym>
@@ -720,6 +760,10 @@
 		<full>Nonquasi-static</full>
 	</ac>
 	<ac>
+		<acronym>NT</acronym>
+		<full>Near-Threshold</full>
+	</ac>
+	<ac>
 		<acronym>OA</acronym>
 		<full>Open Access</full>
 	</ac>
@@ -786,6 +830,10 @@
 	<ac>
 		<acronym>PR</acronym>
 		<full>Place and Route</full>
+	</ac>
+	<ac>
+		<acronym>PBA</acronym>
+		<full>Path-Based Analysis</full>
 	</ac>
 	<ac>
 		<acronym>PBRS</acronym>
@@ -864,12 +912,20 @@
 		<full>Rapid Analog Prototype</full>
 	</ac>
 	<ac>
+		<acronym>RIP</acronym>
+		<full>Receiver Input Peak Check</full>
+	</ac>
+	<ac>
 		<acronym>RNM</acronym>
 		<full>Real Number Modeling</full>
 	</ac>
 	<ac>
 		<acronym>ROD</acronym>
 		<full>Relative Object Design</full>
+	</ac>
+	<ac>
+		<acronym>ROP</acronym>
+		<full>Receiver Output Peak Check</full>
 	</ac>
 	<ac>
 		<acronym>RSP</acronym>
@@ -932,6 +988,10 @@
 		<full>Signal Integrity</full>
 	</ac>
 	<ac>
+		<acronym>SMSC</acronym>
+		<full>Single Mode Single Corner</full>
+	</ac>
+	<ac>
 		<acronym>SNA</acronym>
 		<full>Substrate Noise Analysis</full>
 	</ac>
@@ -950,6 +1010,10 @@
 	<ac>
 		<acronym>SoC</acronym>
 		<full>System on a Chip</full>
+	</ac>
+	<ac>
+		<acronym>SOCV</acronym>
+		<full>Statistical On-chip Variation</full>
 	</ac>
 	<ac>
 		<acronym>SOI</acronym>
@@ -1034,6 +1098,10 @@
 	<ac>
 		<acronym>TSV</acronym>
 		<full>Through-Silicon Via</full>
+	</ac>
+	<ac>
+		<acronym>TW</acronym>
+		<full>Timing Window</full>
 	</ac>
 	<ac>
 		<acronym>UCM</acronym>
