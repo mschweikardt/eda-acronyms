@@ -244,7 +244,7 @@ digraph test {
 	STATE [label="State"];
 	MACHINE [label="Machine"];
 	FULL [label="Full"];
-	GRAPH [label="Graph"];
+	GARPH [label="GARPH"];
 	GENERIC [label="Generic"];
 	MANAGEMENT [label="Management"];
 	GRAPHICAL [label="Graphical"];
@@ -276,6 +276,11 @@ digraph test {
 	BUFFER [label="Buffer"];
 	INFORMATION [label="Information"];
 	SPECIFICATION [label="Specification"];
+	INTERNET [label="Internet"];
+	LEARNING [label="Learning"];
+	INSTRUCTOR [label="Instructor"];
+	LED [label="Led"];
+	TRAINING [label="Training"];
 	INTEGRATION [label="Integration"];
 	INTERCONNECT [label="Interconnect"];
 	IC [label="IC"];
@@ -737,6 +742,7 @@ digraph test {
 	FROM -> SOURCE;
 	FRONT -> END;
 	FULL -> TIMING;
+	GARPH -> BASED;
 	GATE -> ARRAY;
 	GATE -> FIELD;
 	GATE -> INDUCED;
@@ -747,7 +753,6 @@ digraph test {
 	GENERATE -> SELECTED;
 	GENERIC -> DESIGN;
 	GLOBAL -> TIMING;
-	GRAPH -> BASED;
 	GRAPHICAL -> DESIGN;
 	GRAPHICAL -> LVS;
 	GRID -> ENGINE;
@@ -781,6 +786,7 @@ digraph test {
 	INPUT -> PEAK;
 	INSERTED -> CONNECT;
 	INSTANCE -> VOLTAGE;
+	INSTRUCTOR -> LED;
 	INSULATED -> GATE;
 	INSULATOR -> METAL;
 	INSULATOR -> METAL;
@@ -801,6 +807,7 @@ digraph test {
 	INTERFACE -> LOGIC;
 	INTERMEDIATE -> FORMAT;
 	INTERNATIONAL -> TECHNOLOGY;
+	INTERNET -> LEARNING;
 	INTERPRETER -> WINDOW;
 	INTERPROCESS -> COMMUNICATION;
 	IR -> DROP;
@@ -822,7 +829,9 @@ digraph test {
 	LAYOUT -> VERSUS;
 	LAYOUT -> VERSUS;
 	LEADLESS -> CHIP;
+	LEARNING -> SERIES;
 	LEAST -> RESISTIVE;
+	LED -> TRAINING;
 	LEVEL -> SIMULATION;
 	LIBERTY -> VARIATION;
 	LIBRARY -> EXCHANGE;

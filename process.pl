@@ -84,6 +84,7 @@ while ($line=<README>)
         foreach $wrd (@uniq) 
         {
             $wrd = "EGDE" if lc($wrd) eq "edge";
+            $wrd = "GARPH" if lc($wrd) eq "graph";
             $w_graph->add_node(uc $wrd, label => $wrd);
         }
         for $itr (0 .. scalar(@words)-2) 
@@ -92,6 +93,8 @@ while ($line=<README>)
             my $snd = uc ($words[$itr + 1]);
             if (lc($fst) eq "edge") { $fst = "EGDE"; }
             if (lc($snd) eq "edge") { $snd = "EGDE"; }
+            if (lc($fst) eq "graph") { $fst = "GARPH"; }
+            if (lc($snd) eq "graph") { $snd = "GARPH"; }
             $w_graph->add_edge($fst => $snd);
         }
     }

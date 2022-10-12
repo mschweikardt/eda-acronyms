@@ -140,6 +140,8 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - High Performance Blocking (HPB)
 - Hierarchical Extraction (HRCX)
 - I/O Buffer Information Specification (IBIS)
+- Internet Learning Series (ILS)
+- Instructor-Led Training (ILT)
 - Integration Constraint Editor (ICE)
 - Interconnect Technology (ICT)
 - IC Remote Processes (ICRP)
