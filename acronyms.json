@@ -275,6 +275,10 @@
 	, "full": "Hierarchical Extraction" },
 	{ "acronym": "IBIS"
 	, "full": "I/O Buffer Information Specification" },
+	{ "acronym": "ILS"
+	, "full": "Internet Learning Series" },
+	{ "acronym": "ILT"
+	, "full": "Instructor-Led Training" },
 	{ "acronym": "ICE"
 	, "full": "Integration Constraint Editor" },
 	{ "acronym": "ICT"

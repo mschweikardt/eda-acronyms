@@ -332,6 +332,8 @@ digraph test {
 	I -> I;
 	I -> L;
 	I -> L;
+	I -> L;
+	I -> L;
 	I -> M;
 	I -> M;
 	I -> M;
@@ -383,6 +385,8 @@ digraph test {
 	L -> S;
 	L -> S;
 	L -> S;
+	L -> S;
+	L -> T;
 	L -> T;
 	L -> U;
 	L -> V;
