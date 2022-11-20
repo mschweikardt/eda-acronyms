@@ -28,6 +28,10 @@
 		<full>Automatically-inserted Connect Module</full>
 	</ac>
 	<ac>
+		<acronym>AMU</acronym>
+		<full>Algorithm Memory Unit</full>
+	</ac>
+	<ac>
 		<acronym>AMS</acronym>
 		<full>Analog-Mixed-Signal</full>
 	</ac>
@@ -96,6 +100,10 @@
 		<full>Bit Error Rate</full>
 	</ac>
 	<ac>
+		<acronym>BGA</acronym>
+		<full>Ball Grid Array</full>
+	</ac>
+	<ac>
 		<acronym>BiCMOS</acronym>
 		<full>Bipolar Complementary Metal Oxide Silicon</full>
 	</ac>
@@ -110,6 +118,10 @@
 	<ac>
 		<acronym>CAD</acronym>
 		<full>Computer Aided Design</full>
+	</ac>
+	<ac>
+		<acronym>CAE</acronym>
+		<full>Constraint Aware Editing</full>
 	</ac>
 	<ac>
 		<acronym>CAN</acronym>
@@ -264,6 +276,10 @@
 		<full>Database Units</full>
 	</ac>
 	<ac>
+		<acronym>DCU</acronym>
+		<full>Data Compare Unit</full>
+	</ac>
+	<ac>
 		<acronym>DDC</acronym>
 		<full>Define Device Correspondence</full>
 	</ac>
@@ -294,6 +310,10 @@
 	<ac>
 		<acronym>DMIM</acronym>
 		<full>Double Metal Insulator Metal</full>
+	</ac>
+	<ac>
+		<acronym>DMS</acronym>
+		<full>Digital Centric Mixed-Signal</full>
 	</ac>
 	<ac>
 		<acronym>DoT</acronym>
@@ -436,6 +456,10 @@
 		<full>Forward Body Bias</full>
 	</ac>
 	<ac>
+		<acronym>FCU</acronym>
+		<full>Fuse Control Unit</full>
+	</ac>
+	<ac>
 		<acronym>FEOL</acronym>
 		<full>Front End of Line</full>
 	</ac>
@@ -502,6 +526,18 @@
 	<ac>
 		<acronym>GLS</acronym>
 		<full>Gate-Level Simulation</full>
+	</ac>
+	<ac>
+		<acronym>GPE</acronym>
+		<full>Grid Pattern Editor</full>
+	</ac>
+	<ac>
+		<acronym>GPH</acronym>
+		<full>Generate Physical Hierarchy</full>
+	</ac>
+	<ac>
+		<acronym>GPM</acronym>
+		<full>Grid Pattern Mapping</full>
 	</ac>
 	<ac>
 		<acronym>GSFS</acronym>
@@ -634,6 +670,10 @@
 	<ac>
 		<acronym>LEF</acronym>
 		<full>Library Exchange Format</full>
+	</ac>
+	<ac>
+		<acronym>LGA</acronym>
+		<full>Land Grid Array</full>
 	</ac>
 	<ac>
 		<acronym>LHS</acronym>
@@ -840,6 +880,10 @@
 		<full>Place and Route</full>
 	</ac>
 	<ac>
+		<acronym>PRO</acronym>
+		<full>Process Rule Overrides</full>
+	</ac>
+	<ac>
 		<acronym>PBA</acronym>
 		<full>Path-Based Analysis</full>
 	</ac>
@@ -920,6 +964,10 @@
 		<full>Rapid Analog Prototype</full>
 	</ac>
 	<ac>
+		<acronym>RAU</acronym>
+		<full>Redundancy Analysis Unit</full>
+	</ac>
+	<ac>
 		<acronym>RIP</acronym>
 		<full>Receiver Input Peak Check</full>
 	</ac>
@@ -950,6 +998,14 @@
 	<ac>
 		<acronym>ROT</acronym>
 		<full>Rule of Thumb</full>
+	</ac>
+	<ac>
+		<acronym>RRU</acronym>
+		<full>Repair Register Unit</full>
+	</ac>
+	<ac>
+		<acronym>SAI</acronym>
+		<full>SoC Architecture Information</full>
 	</ac>
 	<ac>
 		<acronym>SCBE</acronym>
@@ -988,12 +1044,24 @@
 		<full>Sun Grid Engine</full>
 	</ac>
 	<ac>
+		<acronym>SHDB</acronym>
+		<full>Stylus Hierarchical Database</full>
+	</ac>
+	<ac>
 		<acronym>SHE</acronym>
 		<full>Self Heating Effects</full>
 	</ac>
 	<ac>
 		<acronym>SI</acronym>
 		<full>Signal Integrity</full>
+	</ac>
+	<ac>
+		<acronym>Si2</acronym>
+		<full>Silicon Integration Initiative</full>
+	</ac>
+	<ac>
+		<acronym>SIU</acronym>
+		<full>Sequence Iterator Unit</full>
 	</ac>
 	<ac>
 		<acronym>SMSC</acronym>
@@ -1038,6 +1106,10 @@
 	<ac>
 		<acronym>SPICE</acronym>
 		<full>Simulation Program with Integrated Circuit Emphasis</full>
+	</ac>
+	<ac>
+		<acronym>SRC</acronym>
+		<full>Schematic~Rule~Checker</full>
 	</ac>
 	<ac>
 		<acronym>SSS</acronym>

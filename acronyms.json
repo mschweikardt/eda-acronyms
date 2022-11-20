@@ -13,6 +13,8 @@
 	, "full": "Analog Expression Language" },
 	{ "acronym": "AICM"
 	, "full": "Automatically-inserted Connect Module" },
+	{ "acronym": "AMU"
+	, "full": "Algorithm Memory Unit" },
 	{ "acronym": "AMS"
 	, "full": "Analog-Mixed-Signal" },
 	{ "acronym": "AMSD"
@@ -47,6 +49,8 @@
 	, "full": "Back End of Line" },
 	{ "acronym": "BER"
 	, "full": "Bit Error Rate" },
+	{ "acronym": "BGA"
+	, "full": "Ball Grid Array" },
 	{ "acronym": "BiCMOS"
 	, "full": "Bipolar Complementary Metal Oxide Silicon" },
 	{ "acronym": "BSIM"
@@ -55,6 +59,8 @@
 	, "full": "Built-in Self Test" },
 	{ "acronym": "CAD"
 	, "full": "Computer Aided Design" },
+	{ "acronym": "CAE"
+	, "full": "Constraint Aware Editing" },
 	{ "acronym": "CAN"
 	, "full": "Cadence Academic Network" },
 	{ "acronym": "CAS"
@@ -131,6 +137,8 @@
 	, "full": "Common User Interface" },
 	{ "acronym": "DBU"
 	, "full": "Database Units" },
+	{ "acronym": "DCU"
+	, "full": "Data Compare Unit" },
 	{ "acronym": "DDC"
 	, "full": "Define Device Correspondence" },
 	{ "acronym": "DFII"
@@ -147,6 +155,8 @@
 	, "full": "Distributed Multi-Mode Multi Corner" },
 	{ "acronym": "DMIM"
 	, "full": "Double Metal Insulator Metal" },
+	{ "acronym": "DMS"
+	, "full": "Digital Centric Mixed-Signal" },
 	{ "acronym": "DoT"
 	, "full": "Digital on Top" },
 	{ "acronym": "DPO"
@@ -217,6 +227,8 @@
 	, "full": "Field-Effect Transistor" },
 	{ "acronym": "FBB"
 	, "full": "Forward Body Bias" },
+	{ "acronym": "FCU"
+	, "full": "Fuse Control Unit" },
 	{ "acronym": "FEOL"
 	, "full": "Front End of Line" },
 	{ "acronym": "FF"
@@ -251,6 +263,12 @@
 	, "full": "Graphical LVS Debugger" },
 	{ "acronym": "GLS"
 	, "full": "Gate-Level Simulation" },
+	{ "acronym": "GPE"
+	, "full": "Grid Pattern Editor" },
+	{ "acronym": "GPH"
+	, "full": "Generate Physical Hierarchy" },
+	{ "acronym": "GPM"
+	, "full": "Grid Pattern Mapping" },
 	{ "acronym": "GSFS"
 	, "full": "Generate Selected From Source" },
 	{ "acronym": "GTD"
@@ -317,6 +335,8 @@
 	, "full": "Logic Equivalence Checking" },
 	{ "acronym": "LEF"
 	, "full": "Library Exchange Format" },
+	{ "acronym": "LGA"
+	, "full": "Land Grid Array" },
 	{ "acronym": "LHS"
 	, "full": "Latin Hypercube Sampling" },
 	{ "acronym": "LOCOS"
@@ -419,6 +439,8 @@
 	, "full": "Performance, Power and Area" },
 	{ "acronym": "PR"
 	, "full": "Place and Route" },
+	{ "acronym": "PRO"
+	, "full": "Process Rule Overrides" },
 	{ "acronym": "PBA"
 	, "full": "Path-Based Analysis" },
 	{ "acronym": "PBRS"
@@ -459,6 +481,8 @@
 	, "full": "Rapid Adoption Kit" },
 	{ "acronym": "RAP"
 	, "full": "Rapid Analog Prototype" },
+	{ "acronym": "RAU"
+	, "full": "Redundancy Analysis Unit" },
 	{ "acronym": "RIP"
 	, "full": "Receiver Input Peak Check" },
 	{ "acronym": "RNM"
@@ -475,6 +499,10 @@
 	, "full": "Register Transfer Logic" },
 	{ "acronym": "ROT"
 	, "full": "Rule of Thumb" },
+	{ "acronym": "RRU"
+	, "full": "Repair Register Unit" },
+	{ "acronym": "SAI"
+	, "full": "SoC Architecture Information" },
 	{ "acronym": "SCBE"
 	, "full": "Substrate current induced body effect" },
 	{ "acronym": "SDC"
@@ -493,10 +521,16 @@
 	, "full": "Scan Flip-Flop" },
 	{ "acronym": "SGE"
 	, "full": "Sun Grid Engine" },
+	{ "acronym": "SHDB"
+	, "full": "Stylus Hierarchical Database" },
 	{ "acronym": "SHE"
 	, "full": "Self Heating Effects" },
 	{ "acronym": "SI"
 	, "full": "Signal Integrity" },
+	{ "acronym": "Si2"
+	, "full": "Silicon Integration Initiative" },
+	{ "acronym": "SIU"
+	, "full": "Sequence Iterator Unit" },
 	{ "acronym": "SMSC"
 	, "full": "Single Mode Single Corner" },
 	{ "acronym": "SNA"
@@ -519,6 +553,8 @@
 	, "full": "Standard Parasitic Format" },
 	{ "acronym": "SPICE"
 	, "full": "Simulation Program with Integrated Circuit Emphasis" },
+	{ "acronym": "SRC"
+	, "full": "Schematic~Rule~Checker" },
 	{ "acronym": "SSS"
 	, "full": "Simulation Snapshot" },
 	{ "acronym": "SST2"
