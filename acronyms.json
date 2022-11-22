@@ -111,10 +111,12 @@
 	, "full": "Common Power Format" },
 	{ "acronym": "CDB"
 	, "full": "Cadence Database" },
-	{ "acronym": "CPG"
-	, "full": "Cadence Placement Guidance" },
+	{ "acronym": "CLE"
+	, "full": "Concurrent Layout Editing" },
 	{ "acronym": "CMC"
 	, "full": "Compact Modeling Counsel" },
+	{ "acronym": "CPG"
+	, "full": "Cadence Placement Guidance" },
 	{ "acronym": "CPH"
 	, "full": "Configure Physical Hierarchy" },
 	{ "acronym": "CPPR"
@@ -133,6 +135,8 @@
 	, "full": "Clock Tree Debugger" },
 	{ "acronym": "CTS"
 	, "full": "Clock Tree Synthesis" },
+	{ "acronym": "CV"
+	, "full": "Constraint Validation" },
 	{ "acronym": "CVD"
 	, "full": "Common User Interface" },
 	{ "acronym": "DBU"
@@ -173,8 +177,12 @@
 	, "full": "Design Rule Check" },
 	{ "acronym": "DRD"
 	, "full": "Design Rule Driven" },
+	{ "acronym": "DRF"
+	, "full": "Dynamic Rule Filtering" },
 	{ "acronym": "DRL"
 	, "full": "Device Recognition Layer" },
+	{ "acronym": "DRM"
+	, "full": "Design Rule Manual" },
 	{ "acronym": "DRV"
 	, "full": "Design Rule Violation" },
 	{ "acronym": "DSTA"
@@ -291,6 +299,8 @@
 	, "full": "High Performance Blocking" },
 	{ "acronym": "HRCX"
 	, "full": "Hierarchical Extraction" },
+	{ "acronym": "HPM"
+	, "full": "Hierarchical Pattern Matching" },
 	{ "acronym": "IBIS"
 	, "full": "I/O Buffer Information Specification" },
 	{ "acronym": "ILS"
@@ -321,6 +331,8 @@
 	, "full": "Interactive Simulation Environment" },
 	{ "acronym": "IP"
 	, "full": "Intellectual Property" },
+	{ "acronym": "ISL"
+	, "full": "Interactive Short Locator" },
 	{ "acronym": "KCL"
 	, "full": "Kirchhoff’s Current Law" },
 	{ "acronym": "KVL"
@@ -409,6 +421,8 @@
 	, "full": "Open Access" },
 	{ "acronym": "OASIS"
 	, "full": "Open Artwork System Interchange Standard" },
+	{ "acronym": "OBC"
+	, "full": "One-Button-Checker" },
 	{ "acronym": "OCV"
 	, "full": "On-Chip Variation" },
 	{ "acronym": "OOMR"
@@ -455,6 +469,8 @@
 	, "full": "Power-Delay Product" },
 	{ "acronym": "PEEC"
 	, "full": "Partial Element Equivalent Circuit" },
+	{ "acronym": "PERC"
+	, "full": "Programmable Electrical Rule Check" },
 	{ "acronym": "PLCC"
 	, "full": "Plastic Leadless Chip Carrier" },
 	{ "acronym": "PSF"
@@ -613,6 +629,8 @@
 	, "full": "Virtuoso Digital Signoff for Power" },
 	{ "acronym": "VDST"
 	, "full": "Virtuoso Digital Signoff for Timing" },
+	{ "acronym": "VIPVS"
+	, "full": "Virtuoso Integrated Physical Verification System" },
 	{ "acronym": "VFP"
 	, "full": "Virtuoso Floorplanner" },
 	{ "acronym": "VHDL"

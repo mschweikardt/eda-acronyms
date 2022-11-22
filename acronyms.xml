@@ -224,12 +224,16 @@
 		<full>Cadence Database</full>
 	</ac>
 	<ac>
-		<acronym>CPG</acronym>
-		<full>Cadence Placement Guidance</full>
+		<acronym>CLE</acronym>
+		<full>Concurrent Layout Editing</full>
 	</ac>
 	<ac>
 		<acronym>CMC</acronym>
 		<full>Compact Modeling Counsel</full>
+	</ac>
+	<ac>
+		<acronym>CPG</acronym>
+		<full>Cadence Placement Guidance</full>
 	</ac>
 	<ac>
 		<acronym>CPH</acronym>
@@ -266,6 +270,10 @@
 	<ac>
 		<acronym>CTS</acronym>
 		<full>Clock Tree Synthesis</full>
+	</ac>
+	<ac>
+		<acronym>CV</acronym>
+		<full>Constraint Validation</full>
 	</ac>
 	<ac>
 		<acronym>CVD</acronym>
@@ -348,8 +356,16 @@
 		<full>Design Rule Driven</full>
 	</ac>
 	<ac>
+		<acronym>DRF</acronym>
+		<full>Dynamic Rule Filtering</full>
+	</ac>
+	<ac>
 		<acronym>DRL</acronym>
 		<full>Device Recognition Layer</full>
+	</ac>
+	<ac>
+		<acronym>DRM</acronym>
+		<full>Design Rule Manual</full>
 	</ac>
 	<ac>
 		<acronym>DRV</acronym>
@@ -584,6 +600,10 @@
 		<full>Hierarchical Extraction</full>
 	</ac>
 	<ac>
+		<acronym>HPM</acronym>
+		<full>Hierarchical Pattern Matching</full>
+	</ac>
+	<ac>
 		<acronym>IBIS</acronym>
 		<full>I/O Buffer Information Specification</full>
 	</ac>
@@ -642,6 +662,10 @@
 	<ac>
 		<acronym>IP</acronym>
 		<full>Intellectual Property</full>
+	</ac>
+	<ac>
+		<acronym>ISL</acronym>
+		<full>Interactive Short Locator</full>
 	</ac>
 	<ac>
 		<acronym>KCL</acronym>
@@ -820,6 +844,10 @@
 		<full>Open Artwork System Interchange Standard</full>
 	</ac>
 	<ac>
+		<acronym>OBC</acronym>
+		<full>One-Button-Checker</full>
+	</ac>
+	<ac>
 		<acronym>OCV</acronym>
 		<full>On-Chip Variation</full>
 	</ac>
@@ -910,6 +938,10 @@
 	<ac>
 		<acronym>PEEC</acronym>
 		<full>Partial Element Equivalent Circuit</full>
+	</ac>
+	<ac>
+		<acronym>PERC</acronym>
+		<full>Programmable Electrical Rule Check</full>
 	</ac>
 	<ac>
 		<acronym>PLCC</acronym>
@@ -1226,6 +1258,10 @@
 	<ac>
 		<acronym>VDST</acronym>
 		<full>Virtuoso Digital Signoff for Timing</full>
+	</ac>
+	<ac>
+		<acronym>VIPVS</acronym>
+		<full>Virtuoso Integrated Physical Verification System</full>
 	</ac>
 	<ac>
 		<acronym>VFP</acronym>
