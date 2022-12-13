@@ -124,6 +124,7 @@ digraph test {
 	C -> E;
 	C -> F;
 	C -> F;
+	C -> F;
 	C -> G;
 	C -> G;
 	C -> I;
@@ -282,6 +283,7 @@ digraph test {
 	E -> X;
 	F -> B;
 	F -> C;
+	F -> D;
 	F -> E;
 	F -> E;
 	F -> E;

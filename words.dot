@@ -117,6 +117,9 @@ digraph test {
 	CALTECH [label="Caltech"];
 	INTERMEDIATE [label="Intermediate"];
 	CDF [label="CDF"];
+	COMPUTATIONAL [label="Computational"];
+	FLUID [label="Fluid"];
+	DYNAMICS [label="Dynamics"];
 	GATING [label="gating"];
 	CELL [label="Cell"];
 	INTERPRETER [label="Interpreter"];
@@ -244,7 +247,6 @@ digraph test {
 	FRONT [label="Front"];
 	FLIP [label="Flip"];
 	FLOP [label="Flop"];
-	FLUID [label="Fluid"];
 	GUARD [label="Guard"];
 	RING [label="Ring"];
 	FOWLER [label="Fowler"];
@@ -636,6 +638,7 @@ digraph test {
 	COMPONENT -> DESCRIPTION;
 	COMPONENTS -> AND;
 	COMPOSITE -> CURRENT;
+	COMPUTATIONAL -> FLUID;
 	COMPUTER -> AIDED;
 	CONCURRENT -> LAYOUT;
 	CONCURRENT -> MULTI;
@@ -768,6 +771,7 @@ digraph test {
 	FLAT -> NETLISTER;
 	FLIP -> FLOP;
 	FLIP -> FLOP;
+	FLUID -> DYNAMICS;
 	FLUID -> GUARD;
 	FOR -> MANUFACTURABILITY;
 	FOR -> NETLISTING;

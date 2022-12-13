@@ -49,6 +49,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Cadence Design Systems (CDS)
 - Caltech Intermediate Format (CIF)
 - CDF Expression Language (CEL)
+- Computational Fluid Dynamics (CFD) 
 - Clock-gating integrated cell (CGIC)
 - Command Interpreter Window (CIW)
 - Compile Module Interface (CMI)
