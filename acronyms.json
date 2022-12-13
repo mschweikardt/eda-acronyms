@@ -93,6 +93,8 @@
 	, "full": "Caltech Intermediate Format" },
 	{ "acronym": "CEL"
 	, "full": "CDF Expression Language" },
+	{ "acronym": "CFD"
+	, "full": "Computational Fluid Dynamics" },
 	{ "acronym": "CGIC"
 	, "full": "Clock-gating integrated cell" },
 	{ "acronym": "CIW"
