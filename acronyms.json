@@ -591,6 +591,8 @@
 	, "full": "Silicon Virtual Prototype" },
 	{ "acronym": "SVS"
 	, "full": "Schematic Versus Schematic" },
+	{ "acronym": "TPR"
+	, "full": "Tanner Place and Route" },
 	{ "acronym": "TAT"
 	, "full": "Turnaround Time" },
 	{ "acronym": "Tcl"

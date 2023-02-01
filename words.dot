@@ -477,6 +477,7 @@ digraph test {
 	ISOLATION [label="Isolation"];
 	VERILOG [label="Verilog"];
 	VIRTUAL [label="Virtual"];
+	TANNER [label="Tanner"];
 	TURNAROUND [label="Turnaround"];
 	TIME [label="Time"];
 	TOOL [label="Tool"];
@@ -542,6 +543,7 @@ digraph test {
 	AND -> AREA;
 	AND -> IR;
 	AND -> NETS;
+	AND -> ROUTE;
 	AND -> ROUTE;
 	AND -> TEMPERATURE;
 	AND -> VERIFICATION;
@@ -1026,6 +1028,7 @@ digraph test {
 	PHYSICAL -> VERIFICATION;
 	PHYSICAL -> VERIFICATION;
 	PLACE -> AND;
+	PLACE -> AND;
 	PLACEMENT -> GUIDANCE;
 	PLACEMENT -> OF;
 	PLASTIC -> LEADLESS;
@@ -1176,6 +1179,7 @@ digraph test {
 	SYSTEM -> INTERCHANGE;
 	SYSTEM -> ON;
 	SYSTEM -> VERILOG;
+	TANNER -> PLACE;
 	TECHNOLOGY -> ROADMAP;
 	TECHNOLOGY -> SIMULATION;
 	TEMPERATURE -> INSTABILITY;
