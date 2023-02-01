@@ -566,6 +566,7 @@ digraph test {
 	P -> R;
 	P -> R;
 	P -> R;
+	P -> R;
 	P -> S;
 	P -> S;
 	P -> S;
@@ -719,6 +720,7 @@ digraph test {
 	T -> M;
 	T -> M;
 	T -> N;
+	T -> P;
 	T -> P;
 	T -> P;
 	T -> R;

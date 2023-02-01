@@ -298,6 +298,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - System Verilog (SV)
 - Silicon Virtual Prototype (SVP)
 - Schematic Versus Schematic (SVS)
+- Tanner Place and Route (TPR)
 - Turnaround Time (TAT)
 - Tool Command Language (Tcl)
 - Time Dependent Dielectric Breakdown (TDDB)

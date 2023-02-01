@@ -295,6 +295,7 @@ acronyms:
   - SV: "System Verilog"
   - SVP: "Silicon Virtual Prototype"
   - SVS: "Schematic Versus Schematic"
+  - TPR: "Tanner Place and Route"
   - TAT: "Turnaround Time"
   - Tcl: "Tool Command Language"
   - TDDB: "Time Dependent Dielectric Breakdown"
