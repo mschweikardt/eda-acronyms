@@ -75,6 +75,8 @@
 	, "full": "Common Command Language" },
 	{ "acronym": "CCOpt"
 	, "full": "Clock Concurrent Optimization" },
+	{ "acronym": "CCR"
+	, "full": "Cadence Change Request" },
 	{ "acronym": "CCS"
 	, "full": "Composite Current Source" },
 	{ "acronym": "CDC"
@@ -147,6 +149,8 @@
 	, "full": "Data Compare Unit" },
 	{ "acronym": "DDC"
 	, "full": "Define Device Correspondence" },
+	{ "acronym": "DDPI"
+	, "full": "Design Data Procedural Interface" },
 	{ "acronym": "DFII"
 	, "full": "Design Framework II" },
 	{ "acronym": "DFM"
@@ -157,6 +161,8 @@
 	, "full": "Drain-induced barrier lowering" },
 	{ "acronym": "DITS"
 	, "full": "Drain-induced threshold shift" },
+	{ "acronym": "DNL"
+	, "full": "Differential Nonlinearity" },
 	{ "acronym": "DMMMC"
 	, "full": "Distributed Multi-Mode Multi Corner" },
 	{ "acronym": "DMIM"
@@ -169,8 +175,8 @@
 	, "full": "Dual Port Object" },
 	{ "acronym": "DPL"
 	, "full": "Disembodied Property List" },
-	{ "acronym": "DDPI"
-	, "full": "Design Data Procedural Interface" },
+	{ "acronym": "DRS"
+	, "full": "Driver-Receiver Segregation" },
 	{ "acronym": "DPT"
 	, "full": "Double Patterning Technology" },
 	{ "acronym": "DR"
@@ -355,6 +361,8 @@
 	, "full": "Latin Hypercube Sampling" },
 	{ "acronym": "LOCOS"
 	, "full": "Local Oxidation of Silicon" },
+	{ "acronym": "LPF"
+	, "full": "Low Pass Filter" },
 	{ "acronym": "LPP"
 	, "full": "Layer-Purpose Pair" },
 	{ "acronym": "LRP"
@@ -475,6 +483,8 @@
 	, "full": "Programmable Electrical Rule Check" },
 	{ "acronym": "PLCC"
 	, "full": "Plastic Leadless Chip Carrier" },
+	{ "acronym": "PLL"
+	, "full": "Phase Locked Loop" },
 	{ "acronym": "PSF"
 	, "full": "Parameter Storage Format" },
 	{ "acronym": "PSN"
@@ -521,6 +531,8 @@
 	, "full": "Repair Register Unit" },
 	{ "acronym": "SAI"
 	, "full": "SoC Architecture Information" },
+	{ "acronym": "SAIF"
+	, "full": "Switching Activity Interchange Format" },
 	{ "acronym": "SCBE"
 	, "full": "Substrate current induced body effect" },
 	{ "acronym": "SDC"
@@ -543,12 +555,16 @@
 	, "full": "Stylus Hierarchical Database" },
 	{ "acronym": "SHE"
 	, "full": "Self Heating Effects" },
+	{ "acronym": "SHM"
+	, "full": "Simulation History Manager" },
 	{ "acronym": "SI"
 	, "full": "Signal Integrity" },
 	{ "acronym": "Si2"
 	, "full": "Silicon Integration Initiative" },
 	{ "acronym": "SIU"
 	, "full": "Sequence Iterator Unit" },
+	{ "acronym": "SMART"
+	, "full": "Signal integrity, Manufacturing Awareness, Routability, and Timing" },
 	{ "acronym": "SMSC"
 	, "full": "Single Mode Single Corner" },
 	{ "acronym": "SNA"
@@ -572,7 +588,7 @@
 	{ "acronym": "SPICE"
 	, "full": "Simulation Program with Integrated Circuit Emphasis" },
 	{ "acronym": "SRC"
-	, "full": "Schematic~Rule~Checker" },
+	, "full": "Schematic Rule Checker" },
 	{ "acronym": "SSS"
 	, "full": "Simulation Snapshot" },
 	{ "acronym": "SST2"
@@ -595,6 +611,8 @@
 	, "full": "Tanner Place and Route" },
 	{ "acronym": "TAT"
 	, "full": "Turnaround Time" },
+	{ "acronym": "TCF"
+	, "full": "Toggle Count Format" },
 	{ "acronym": "Tcl"
 	, "full": "Tool Command Language" },
 	{ "acronym": "TDDB"
@@ -625,10 +643,14 @@
 	, "full": "Update Schematic Parameters" },
 	{ "acronym": "VCD"
 	, "full": "Value Change Dump" },
+	{ "acronym": "VCO"
+	, "full": "Voltage Controlled Oscillator" },
 	{ "acronym": "VCP"
 	, "full": "Virtuoso Custom Digital Placer" },
 	{ "acronym": "VDI"
 	, "full": "Virtuoso Digital Implementation" },
+	{ "acronym": "VDR"
+	, "full": "Voltage-Dependent Rules" },
 	{ "acronym": "VDSP"
 	, "full": "Virtuoso Digital Signoff for Power" },
 	{ "acronym": "VDST"

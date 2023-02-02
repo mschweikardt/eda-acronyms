@@ -152,6 +152,10 @@
 		<full>Clock Concurrent Optimization</full>
 	</ac>
 	<ac>
+		<acronym>CCR</acronym>
+		<full>Cadence Change Request</full>
+	</ac>
+	<ac>
 		<acronym>CCS</acronym>
 		<full>Composite Current Source</full>
 	</ac>
@@ -296,6 +300,10 @@
 		<full>Define Device Correspondence</full>
 	</ac>
 	<ac>
+		<acronym>DDPI</acronym>
+		<full>Design Data Procedural Interface</full>
+	</ac>
+	<ac>
 		<acronym>DFII</acronym>
 		<full>Design Framework II</full>
 	</ac>
@@ -314,6 +322,10 @@
 	<ac>
 		<acronym>DITS</acronym>
 		<full>Drain-induced threshold shift</full>
+	</ac>
+	<ac>
+		<acronym>DNL</acronym>
+		<full>Differential Nonlinearity</full>
 	</ac>
 	<ac>
 		<acronym>DMMMC</acronym>
@@ -340,8 +352,8 @@
 		<full>Disembodied Property List</full>
 	</ac>
 	<ac>
-		<acronym>DDPI</acronym>
-		<full>Design Data Procedural Interface</full>
+		<acronym>DRS</acronym>
+		<full>Driver-Receiver Segregation</full>
 	</ac>
 	<ac>
 		<acronym>DPT</acronym>
@@ -712,6 +724,10 @@
 		<full>Local Oxidation of Silicon</full>
 	</ac>
 	<ac>
+		<acronym>LPF</acronym>
+		<full>Low Pass Filter</full>
+	</ac>
+	<ac>
 		<acronym>LPP</acronym>
 		<full>Layer-Purpose Pair</full>
 	</ac>
@@ -952,6 +968,10 @@
 		<full>Plastic Leadless Chip Carrier</full>
 	</ac>
 	<ac>
+		<acronym>PLL</acronym>
+		<full>Phase Locked Loop</full>
+	</ac>
+	<ac>
 		<acronym>PSF</acronym>
 		<full>Parameter Storage Format</full>
 	</ac>
@@ -1044,6 +1064,10 @@
 		<full>SoC Architecture Information</full>
 	</ac>
 	<ac>
+		<acronym>SAIF</acronym>
+		<full>Switching Activity Interchange Format</full>
+	</ac>
+	<ac>
 		<acronym>SCBE</acronym>
 		<full>Substrate current induced body effect</full>
 	</ac>
@@ -1088,6 +1112,10 @@
 		<full>Self Heating Effects</full>
 	</ac>
 	<ac>
+		<acronym>SHM</acronym>
+		<full>Simulation History Manager</full>
+	</ac>
+	<ac>
 		<acronym>SI</acronym>
 		<full>Signal Integrity</full>
 	</ac>
@@ -1098,6 +1126,10 @@
 	<ac>
 		<acronym>SIU</acronym>
 		<full>Sequence Iterator Unit</full>
+	</ac>
+	<ac>
+		<acronym>SMART</acronym>
+		<full>Signal integrity, Manufacturing Awareness, Routability, and Timing</full>
 	</ac>
 	<ac>
 		<acronym>SMSC</acronym>
@@ -1145,7 +1177,7 @@
 	</ac>
 	<ac>
 		<acronym>SRC</acronym>
-		<full>Schematic~Rule~Checker</full>
+		<full>Schematic Rule Checker</full>
 	</ac>
 	<ac>
 		<acronym>SSS</acronym>
@@ -1190,6 +1222,10 @@
 	<ac>
 		<acronym>TAT</acronym>
 		<full>Turnaround Time</full>
+	</ac>
+	<ac>
+		<acronym>TCF</acronym>
+		<full>Toggle Count Format</full>
 	</ac>
 	<ac>
 		<acronym>Tcl</acronym>
@@ -1252,12 +1288,20 @@
 		<full>Value Change Dump</full>
 	</ac>
 	<ac>
+		<acronym>VCO</acronym>
+		<full>Voltage Controlled Oscillator</full>
+	</ac>
+	<ac>
 		<acronym>VCP</acronym>
 		<full>Virtuoso Custom Digital Placer</full>
 	</ac>
 	<ac>
 		<acronym>VDI</acronym>
 		<full>Virtuoso Digital Implementation</full>
+	</ac>
+	<ac>
+		<acronym>VDR</acronym>
+		<full>Voltage-Dependent Rules</full>
 	</ac>
 	<ac>
 		<acronym>VDSP</acronym>
