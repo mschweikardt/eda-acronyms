@@ -157,6 +157,8 @@
 	, "full": "Design for Manufacturability" },
 	{ "acronym": "DFT"
 	, "full": "Design for Test" },
+	{ "acronym": "DSPF"
+	, "full": "Detailed Standard Parasitic Format" },
 	{ "acronym": "DIBL"
 	, "full": "Drain-induced barrier lowering" },
 	{ "acronym": "DITS"
@@ -271,6 +273,8 @@
 	, "full": "Graphical Design Station II" },
 	{ "acronym": "GFS"
 	, "full": "Generate From Source" },
+	{ "acronym": "GAA FET"
+	, "full": "Gates-All-Around FET" },
 	{ "acronym": "GIDL"
 	, "full": "Gate Induced Drain Leakage" },
 	{ "acronym": "GISL"

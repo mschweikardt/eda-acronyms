@@ -169,6 +169,9 @@ digraph test {
 	II [label="II"];
 	FOR [label="for"];
 	MANUFACTURABILITY [label="Manufacturability"];
+	DETAILED [label="Detailed"];
+	STANDARD [label="Standard"];
+	PARASITIC [label="Parasitic"];
 	DRAIN [label="Drain"];
 	INDUCED [label="induced"];
 	BARRIER [label="barrier"];
@@ -201,8 +204,6 @@ digraph test {
 	MANUAL [label="Manual"];
 	VIOLATION [label="Violation"];
 	DETAILD [label="Detaild"];
-	STANDARD [label="Standard"];
-	PARASITIC [label="Parasitic"];
 	DEEP [label="Deep"];
 	SUBMICRON [label="Submicron"];
 	STATIC [label="Static"];
@@ -273,6 +274,10 @@ digraph test {
 	STATION [label="Station"];
 	GENERATE [label="Generate"];
 	FROM [label="From"];
+	GATES [label="Gates"];
+	ALL [label="All"];
+	AROUND [label="Around"];
+	FET [label="FET"];
 	LEAKAGE [label="Leakage"];
 	LVS [label="LVS"];
 	LEVEL [label="Level"];
@@ -366,7 +371,6 @@ digraph test {
 	CARLO [label="Carlo"];
 	MULTICYCLE [label="Multicycle"];
 	SEMICONDUCTOR [label="Semiconductor"];
-	FET [label="FET"];
 	MEASUREMENT [label="Measurement"];
 	MIDDLE [label="Middle"];
 	MULTIPLE [label="Multiple"];
@@ -549,6 +553,7 @@ digraph test {
 	AGAINST -> SOURCE;
 	AIDED -> DESIGN;
 	ALGORITHM -> MEMORY;
+	ALL -> AROUND;
 	AMS -> DESIGNER;
 	AMS -> VIRTUOSO;
 	AMS -> XCELIUM;
@@ -575,6 +580,7 @@ digraph test {
 	ARCHITECTURE -> INFORMATION;
 	AREA -> CHECK;
 	ARITHMETIC -> LOGIC;
+	AROUND -> FET;
 	ARTWORK -> SYSTEM;
 	AUTO -> PLACER;
 	AUTOMATIC -> SYMBOL;
@@ -729,6 +735,7 @@ digraph test {
 	DESIGN -> UNIT;
 	DESIGN -> UNIT;
 	DETAILD -> STANDARD;
+	DETAILED -> STANDARD;
 	DEVICE -> CORRESPONDENCE;
 	DEVICE -> MODEL;
 	DEVICE -> RECOGNITION;
@@ -825,6 +832,7 @@ digraph test {
 	GATE -> INDUCED;
 	GATE -> INDUCED;
 	GATE -> LEVEL;
+	GATES -> ALL;
 	GATING -> INTEGRATED;
 	GENERATE -> FROM;
 	GENERATE -> PHYSICAL;
@@ -1037,6 +1045,7 @@ digraph test {
 	PARASITIC -> FORMAT;
 	PARASITIC -> FORMAT;
 	PARASITIC -> FORMAT;
+	PARASITIC -> FORMAT;
 	PARTIAL -> ELEMENT;
 	PASS -> FILTER;
 	PATH -> BASED;
@@ -1190,6 +1199,7 @@ digraph test {
 	SPEED -> INTEGRATED;
 	STANDARD -> DELAY;
 	STANDARD -> DESIGN;
+	STANDARD -> PARASITIC;
 	STANDARD -> PARASITIC;
 	STANDARD -> PARASITIC;
 	STANDARD -> PARASITIC;
