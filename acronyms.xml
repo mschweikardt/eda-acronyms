@@ -316,6 +316,10 @@
 		<full>Design for Test</full>
 	</ac>
 	<ac>
+		<acronym>DSPF</acronym>
+		<full>Detailed Standard Parasitic Format</full>
+	</ac>
+	<ac>
 		<acronym>DIBL</acronym>
 		<full>Drain-induced barrier lowering</full>
 	</ac>
@@ -542,6 +546,10 @@
 	<ac>
 		<acronym>GFS</acronym>
 		<full>Generate From Source</full>
+	</ac>
+	<ac>
+		<acronym>GAA FET</acronym>
+		<full>Gates-All-Around FET</full>
 	</ac>
 	<ac>
 		<acronym>GIDL</acronym>
