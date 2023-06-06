@@ -44,6 +44,10 @@
 		<full>Analog on Top</full>
 	</ac>
 	<ac>
+		<acronym>AOI</acronym>
+		<full>AND-OR-invert</full>
+	</ac>
+	<ac>
 		<acronym>APS</acronym>
 		<full>Accelerated Parallel Simulation</full>
 	</ac>
@@ -158,6 +162,10 @@
 	<ac>
 		<acronym>CCS</acronym>
 		<full>Composite Current Source</full>
+	</ac>
+	<ac>
+		<acronym>CDA</acronym>
+		<full>Cadence Doc Assistant</full>
 	</ac>
 	<ac>
 		<acronym>CDC</acronym>
@@ -440,6 +448,10 @@
 		<full>Electromigration</full>
 	</ac>
 	<ac>
+		<acronym>EMH</acronym>
+		<full>Embedded Module Hierarchy</full>
+	</ac>
+	<ac>
 		<acronym>EIP</acronym>
 		<full>Edit In Place</full>
 	</ac>
@@ -632,6 +644,10 @@
 		<full>I/O Buffer Information Specification</full>
 	</ac>
 	<ac>
+		<acronym>ICADVM</acronym>
+		<full>Integrated Circuit Advanced Node and Advanced Methodologies</full>
+	</ac>
+	<ac>
 		<acronym>ILS</acronym>
 		<full>Internet Learning Series</full>
 	</ac>
@@ -780,6 +796,10 @@
 		<full>Multicycle Path</full>
 	</ac>
 	<ac>
+		<acronym>MIS</acronym>
+		<full>Multi Input Switching</full>
+	</ac>
+	<ac>
 		<acronym>MISFET</acronym>
 		<full>Metal-Insulator Semiconductor FET</full>
 	</ac>
@@ -866,6 +886,10 @@
 	<ac>
 		<acronym>OA</acronym>
 		<full>Open Access</full>
+	</ac>
+	<ac>
+		<acronym>OAI</acronym>
+		<full>OR-AND-invert</full>
 	</ac>
 	<ac>
 		<acronym>OASIS</acronym>
@@ -1134,6 +1158,10 @@
 	<ac>
 		<acronym>SIU</acronym>
 		<full>Sequence Iterator Unit</full>
+	</ac>
+	<ac>
+		<acronym>SIS</acronym>
+		<full>Single Input Switching</full>
 	</ac>
 	<ac>
 		<acronym>SMART</acronym>

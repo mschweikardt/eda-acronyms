@@ -21,6 +21,8 @@
 	, "full": "AMS Designer" },
 	{ "acronym": "AoT"
 	, "full": "Analog on Top" },
+	{ "acronym": "AOI"
+	, "full": "AND-OR-invert" },
 	{ "acronym": "APS"
 	, "full": "Accelerated Parallel Simulation" },
 	{ "acronym": "ATPG"
@@ -79,6 +81,8 @@
 	, "full": "Cadence Change Request" },
 	{ "acronym": "CCS"
 	, "full": "Composite Current Source" },
+	{ "acronym": "CDA"
+	, "full": "Cadence Doc Assistant" },
 	{ "acronym": "CDC"
 	, "full": "Clock Domain Crossing" },
 	{ "acronym": "CDF"
@@ -219,6 +223,8 @@
 	, "full": "Electronic Design Interchange Format" },
 	{ "acronym": "EM"
 	, "full": "Electromigration" },
+	{ "acronym": "EMH"
+	, "full": "Embedded Module Hierarchy" },
 	{ "acronym": "EIP"
 	, "full": "Edit In Place" },
 	{ "acronym": "EIV"
@@ -315,6 +321,8 @@
 	, "full": "Hierarchical Pattern Matching" },
 	{ "acronym": "IBIS"
 	, "full": "I/O Buffer Information Specification" },
+	{ "acronym": "ICADVM"
+	, "full": "Integrated Circuit Advanced Node and Advanced Methodologies" },
 	{ "acronym": "ILS"
 	, "full": "Internet Learning Series" },
 	{ "acronym": "ILT"
@@ -389,6 +397,8 @@
 	, "full": "Monte Carlo" },
 	{ "acronym": "MCP"
 	, "full": "Multicycle Path" },
+	{ "acronym": "MIS"
+	, "full": "Multi Input Switching" },
 	{ "acronym": "MISFET"
 	, "full": "Metal-Insulator Semiconductor FET" },
 	{ "acronym": "MOSFET"
@@ -433,6 +443,8 @@
 	, "full": "Near-Threshold" },
 	{ "acronym": "OA"
 	, "full": "Open Access" },
+	{ "acronym": "OAI"
+	, "full": "OR-AND-invert" },
 	{ "acronym": "OASIS"
 	, "full": "Open Artwork System Interchange Standard" },
 	{ "acronym": "OBC"
@@ -567,6 +579,8 @@
 	, "full": "Silicon Integration Initiative" },
 	{ "acronym": "SIU"
 	, "full": "Sequence Iterator Unit" },
+	{ "acronym": "SIS"
+	, "full": "Single Input Switching" },
 	{ "acronym": "SMART"
 	, "full": "Signal integrity, Manufacturing Awareness, Routability, and Timing" },
 	{ "acronym": "SMSC"

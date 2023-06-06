@@ -43,9 +43,11 @@ digraph test {
 	A -> D;
 	A -> D;
 	A -> D;
+	A -> D;
 	A -> E;
 	A -> E;
 	A -> E;
+	A -> I;
 	A -> I;
 	A -> I;
 	A -> I;
@@ -56,6 +58,7 @@ digraph test {
 	A -> M;
 	A -> M;
 	A -> N;
+	A -> O;
 	A -> O;
 	A -> P;
 	A -> P;
@@ -104,6 +107,7 @@ digraph test {
 	C -> A;
 	C -> A;
 	C -> A;
+	C -> A;
 	C -> B;
 	C -> C;
 	C -> C;
@@ -115,6 +119,7 @@ digraph test {
 	C -> C;
 	C -> C;
 	C -> C;
+	C -> D;
 	C -> D;
 	C -> D;
 	C -> D;
@@ -183,6 +188,7 @@ digraph test {
 	C -> V;
 	C -> W;
 	C -> X;
+	D -> A;
 	D -> A;
 	D -> B;
 	D -> B;
@@ -256,6 +262,7 @@ digraph test {
 	D -> U;
 	D -> U;
 	D -> V;
+	D -> V;
 	D -> o;
 	E -> C;
 	E -> C;
@@ -273,6 +280,7 @@ digraph test {
 	E -> I;
 	E -> L;
 	E -> L;
+	E -> M;
 	E -> M;
 	E -> M;
 	E -> N;
@@ -367,6 +375,7 @@ digraph test {
 	I -> C;
 	I -> C;
 	I -> C;
+	I -> C;
 	I -> D;
 	I -> E;
 	I -> F;
@@ -390,6 +399,8 @@ digraph test {
 	I -> P;
 	I -> P;
 	I -> R;
+	I -> S;
+	I -> S;
 	I -> S;
 	I -> S;
 	I -> S;
@@ -457,6 +468,8 @@ digraph test {
 	M -> E;
 	M -> F;
 	M -> F;
+	M -> H;
+	M -> I;
 	M -> I;
 	M -> I;
 	M -> I;
@@ -508,6 +521,7 @@ digraph test {
 	O -> A;
 	O -> A;
 	O -> A;
+	O -> A;
 	O -> B;
 	O -> B;
 	O -> C;
@@ -516,6 +530,7 @@ digraph test {
 	O -> C;
 	O -> D;
 	O -> D;
+	O -> I;
 	O -> I;
 	O -> L;
 	O -> L;
@@ -681,6 +696,7 @@ digraph test {
 	S -> I;
 	S -> I;
 	S -> I;
+	S -> I;
 	S -> L;
 	S -> L;
 	S -> M;
@@ -794,6 +810,7 @@ digraph test {
 	V -> L;
 	V -> L;
 	V -> L;
+	V -> M;
 	V -> M;
 	V -> O;
 	V -> P;
