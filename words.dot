@@ -83,7 +83,7 @@ digraph test {
 	CHANNEL [label="Channel"];
 	IGFET [label="IGFET"];
 	BUILT [label="Built"];
-	IN [label="In"];
+	IN [label="in"];
 	SELF [label="Self"];
 	COMPUTER [label="Computer"];
 	AIDED [label="Aided"];
@@ -312,6 +312,7 @@ digraph test {
 	SPECIFICATION [label="Specification"];
 	NODE [label="Node"];
 	METHODOLOGIES [label="Methodologies"];
+	NDOE [label="NDOE"];
 	INTERNET [label="Internet"];
 	LEARNING [label="Learning"];
 	INSTRUCTOR [label="Instructor"];
@@ -477,6 +478,9 @@ digraph test {
 	INITIATIVE [label="Initiative"];
 	ITERATOR [label="Iterator"];
 	SINGLE [label="Single"];
+	SOFTWARE [label="Software"];
+	KIDS [label="Kids"];
+	LIFE [label="Life"];
 	MANUFACTURING [label="Manufacturing"];
 	AWARENESS [label="Awareness"];
 	ROUTABILITY [label="Routability"];
@@ -556,7 +560,7 @@ digraph test {
 	ADOPTION -> KIT;
 	ADVANCED -> BOOLEAN;
 	ADVANCED -> METHODOLOGIES;
-	ADVANCED -> NODE;
+	ADVANCED -> NDOE;
 	ADVANCED -> ON;
 	AGAINST -> SOURCE;
 	AIDED -> DESIGN;
@@ -577,6 +581,7 @@ digraph test {
 	AND -> AREA;
 	AND -> INVERT;
 	AND -> IR;
+	AND -> LEARNING;
 	AND -> NETS;
 	AND -> OR;
 	AND -> ROUTE;
@@ -826,6 +831,7 @@ digraph test {
 	FLIP -> FLOP;
 	FLUID -> DYNAMICS;
 	FLUID -> GUARD;
+	FOR -> KIDS;
 	FOR -> MANUFACTURABILITY;
 	FOR -> NETLISTING;
 	FOR -> POWER;
@@ -881,6 +887,7 @@ digraph test {
 	I -> O;
 	IC -> REMOTE;
 	IGFET -> MODEL;
+	IN -> LIFE;
 	IN -> PLACE;
 	IN -> SELF;
 	IN -> SELF;
@@ -929,6 +936,7 @@ digraph test {
 	IR -> DROP;
 	ITERATOR -> UNIT;
 	JUNCTION -> BIPOLAR;
+	KIDS -> IN;
 	KIRCHHOFF -> S;
 	KIRCHHOFF -> S;
 	LAND -> GRID;
@@ -954,6 +962,7 @@ digraph test {
 	LEVEL -> SIMULATION;
 	LIBERTY -> VARIATION;
 	LIBRARY -> EXCHANGE;
+	LIFE -> AND;
 	LIGHTLY -> DOPED;
 	LINEAR -> DELAY;
 	LOAD -> MODEL;
@@ -1013,12 +1022,12 @@ digraph test {
 	MULTIPLE -> SUPPLY;
 	NANOROUTE -> HIGH;
 	NATIONAL -> INSTRUMENTS;
+	NDOE -> AND;
 	NEAR -> THRESHOLD;
 	NEGATIVE -> BIAS;
 	NEGATIVE -> SLACK;
 	NEGATIVE -> SLACK;
 	NETLIST -> PROPERTY;
-	NODE -> AND;
 	NOISE -> ANALYSIS;
 	NOISE -> RATIO;
 	NON -> LINEAR;
@@ -1214,6 +1223,7 @@ digraph test {
 	SINGLE -> MODE;
 	SNAP -> PATTERN;
 	SOC -> ARCHITECTURE;
+	SOFTWARE -> FOR;
 	SOURCE -> LEAKAGE;
 	SOURCE -> MODEL;
 	SPACE -> BASED;
