@@ -83,7 +83,7 @@ digraph test {
 	CHANNEL [label="Channel"];
 	IGFET [label="IGFET"];
 	BUILT [label="Built"];
-	IN [label="in"];
+	IN [label="In"];
 	SELF [label="Self"];
 	COMPUTER [label="Computer"];
 	AIDED [label="Aided"];
@@ -478,9 +478,7 @@ digraph test {
 	INITIATIVE [label="Initiative"];
 	ITERATOR [label="Iterator"];
 	SINGLE [label="Single"];
-	SOFTWARE [label="Software"];
-	KIDS [label="Kids"];
-	LIFE [label="Life"];
+	COMPILER [label="Compiler"];
 	MANUFACTURING [label="Manufacturing"];
 	AWARENESS [label="Awareness"];
 	ROUTABILITY [label="Routability"];
@@ -581,7 +579,6 @@ digraph test {
 	AND -> AREA;
 	AND -> INVERT;
 	AND -> IR;
-	AND -> LEARNING;
 	AND -> NETS;
 	AND -> OR;
 	AND -> ROUTE;
@@ -683,6 +680,7 @@ digraph test {
 	COMPARE -> UNIT;
 	COMPILE -> MODULE;
 	COMPILE -> MODULE;
+	COMPILER -> INTERFACE;
 	COMPLEMENTARY -> METAL;
 	COMPLEMENTARY -> METAL;
 	COMPONENT -> DESCRIPTION;
@@ -831,7 +829,6 @@ digraph test {
 	FLIP -> FLOP;
 	FLUID -> DYNAMICS;
 	FLUID -> GUARD;
-	FOR -> KIDS;
 	FOR -> MANUFACTURABILITY;
 	FOR -> NETLISTING;
 	FOR -> POWER;
@@ -887,7 +884,6 @@ digraph test {
 	I -> O;
 	IC -> REMOTE;
 	IGFET -> MODEL;
-	IN -> LIFE;
 	IN -> PLACE;
 	IN -> SELF;
 	IN -> SELF;
@@ -927,6 +923,7 @@ digraph test {
 	INTERCHANGE -> STANDARD;
 	INTERCONNECT -> TECHNOLOGY;
 	INTERFACE -> ELEMENT;
+	INTERFACE -> LANGUAGE;
 	INTERFACE -> LOGIC;
 	INTERMEDIATE -> FORMAT;
 	INTERNATIONAL -> TECHNOLOGY;
@@ -936,7 +933,6 @@ digraph test {
 	IR -> DROP;
 	ITERATOR -> UNIT;
 	JUNCTION -> BIPOLAR;
-	KIDS -> IN;
 	KIRCHHOFF -> S;
 	KIRCHHOFF -> S;
 	LAND -> GRID;
@@ -962,7 +958,6 @@ digraph test {
 	LEVEL -> SIMULATION;
 	LIBERTY -> VARIATION;
 	LIBRARY -> EXCHANGE;
-	LIFE -> AND;
 	LIGHTLY -> DOPED;
 	LINEAR -> DELAY;
 	LOAD -> MODEL;
@@ -1206,6 +1201,7 @@ digraph test {
 	SIGNOFF -> AND;
 	SIGNOFF -> FOR;
 	SIGNOFF -> FOR;
+	SILICON -> COMPILER;
 	SILICON -> INTEGRATION;
 	SILICON -> ON;
 	SILICON -> SIGNOFF;
@@ -1223,7 +1219,6 @@ digraph test {
 	SINGLE -> MODE;
 	SNAP -> PATTERN;
 	SOC -> ARCHITECTURE;
-	SOFTWARE -> FOR;
 	SOURCE -> LEAKAGE;
 	SOURCE -> MODEL;
 	SPACE -> BASED;

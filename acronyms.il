@@ -290,7 +290,7 @@
 	'Si2	"Silicon Integration Initiative"
 	'SIU	"Sequence Iterator Unit"
 	'SIS	"Single Input Switching"
-	'SKILL	"Software for Kids in Life and Learning"
+	'SKILL	"Silicon Compiler Interface Language"
 	'SMART	"Signal integrity, Manufacturing Awareness, Routability, and Timing"
 	'SMSC	"Single Mode Single Corner"
 	'SNA	"Substrate Noise Analysis"
