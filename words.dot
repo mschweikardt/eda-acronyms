@@ -312,6 +312,7 @@ digraph test {
 	SPECIFICATION [label="Specification"];
 	NODE [label="Node"];
 	METHODOLOGIES [label="Methodologies"];
+	NDOE [label="NDOE"];
 	INTERNET [label="Internet"];
 	LEARNING [label="Learning"];
 	INSTRUCTOR [label="Instructor"];
@@ -477,6 +478,7 @@ digraph test {
 	INITIATIVE [label="Initiative"];
 	ITERATOR [label="Iterator"];
 	SINGLE [label="Single"];
+	COMPILER [label="Compiler"];
 	MANUFACTURING [label="Manufacturing"];
 	AWARENESS [label="Awareness"];
 	ROUTABILITY [label="Routability"];
@@ -556,7 +558,7 @@ digraph test {
 	ADOPTION -> KIT;
 	ADVANCED -> BOOLEAN;
 	ADVANCED -> METHODOLOGIES;
-	ADVANCED -> NODE;
+	ADVANCED -> NDOE;
 	ADVANCED -> ON;
 	AGAINST -> SOURCE;
 	AIDED -> DESIGN;
@@ -678,6 +680,7 @@ digraph test {
 	COMPARE -> UNIT;
 	COMPILE -> MODULE;
 	COMPILE -> MODULE;
+	COMPILER -> INTERFACE;
 	COMPLEMENTARY -> METAL;
 	COMPLEMENTARY -> METAL;
 	COMPONENT -> DESCRIPTION;
@@ -920,6 +923,7 @@ digraph test {
 	INTERCHANGE -> STANDARD;
 	INTERCONNECT -> TECHNOLOGY;
 	INTERFACE -> ELEMENT;
+	INTERFACE -> LANGUAGE;
 	INTERFACE -> LOGIC;
 	INTERMEDIATE -> FORMAT;
 	INTERNATIONAL -> TECHNOLOGY;
@@ -1013,12 +1017,12 @@ digraph test {
 	MULTIPLE -> SUPPLY;
 	NANOROUTE -> HIGH;
 	NATIONAL -> INSTRUMENTS;
+	NDOE -> AND;
 	NEAR -> THRESHOLD;
 	NEGATIVE -> BIAS;
 	NEGATIVE -> SLACK;
 	NEGATIVE -> SLACK;
 	NETLIST -> PROPERTY;
-	NODE -> AND;
 	NOISE -> ANALYSIS;
 	NOISE -> RATIO;
 	NON -> LINEAR;
@@ -1197,6 +1201,7 @@ digraph test {
 	SIGNOFF -> AND;
 	SIGNOFF -> FOR;
 	SIGNOFF -> FOR;
+	SILICON -> COMPILER;
 	SILICON -> INTEGRATION;
 	SILICON -> ON;
 	SILICON -> SIGNOFF;

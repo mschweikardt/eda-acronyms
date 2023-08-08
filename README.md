@@ -295,6 +295,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Silicon Integration Initiative (Si2)
 - Sequence Iterator Unit (SIU)
 - Single Input Switching (SIS)
+- Silicon Compiler Interface Language (SKILL)
 - Signal integrity, Manufacturing Awareness, Routability, and Timing (SMART)
 - Single Mode Single Corner (SMSC)
 - Substrate Noise Analysis (SNA)

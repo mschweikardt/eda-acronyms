@@ -581,6 +581,8 @@
 	, "full": "Sequence Iterator Unit" },
 	{ "acronym": "SIS"
 	, "full": "Single Input Switching" },
+	{ "acronym": "SKILL"
+	, "full": "Silicon Compiler Interface Language" },
 	{ "acronym": "SMART"
 	, "full": "Signal integrity, Manufacturing Awareness, Routability, and Timing" },
 	{ "acronym": "SMSC"

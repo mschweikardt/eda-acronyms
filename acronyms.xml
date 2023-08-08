@@ -1164,6 +1164,10 @@
 		<full>Single Input Switching</full>
 	</ac>
 	<ac>
+		<acronym>SKILL</acronym>
+		<full>Silicon Compiler Interface Language</full>
+	</ac>
+	<ac>
 		<acronym>SMART</acronym>
 		<full>Signal integrity, Manufacturing Awareness, Routability, and Timing</full>
 	</ac>

@@ -95,6 +95,8 @@ while ($line=<README>)
             if (lc($snd) eq "edge") { $snd = "EGDE"; }
             if (lc($fst) eq "graph") { $fst = "GARPH"; }
             if (lc($snd) eq "graph") { $snd = "GARPH"; }
+            if (lc($fst) eq "node") { $fst = "NDOE"; }
+            if (lc($snd) eq "node") { $snd = "NDOE"; }
             $w_graph->add_edge($fst => $snd);
         }
     }
