@@ -79,6 +79,7 @@ Electronic Design Automation (EDA) acronyms with a special focus on
 - Database Units (DBU)
 - Data Compare Unit (DCU)
 - Define Device Correspondence (DDC)
+- Determinant Decision Diagram (DDD)
 - Design Data Procedural Interface (DDPI)
 - Design Framework II (DFII)
 - Design for Manufacturability (DFM)
